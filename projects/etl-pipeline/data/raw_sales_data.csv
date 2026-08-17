@@ -1,0 +1,1085 @@
+order_date,region,product,unit_price,quantity,revenue,sales_rep
+04-13-2025, East ,Noise Cancelling Headphones,$149.99,4,599.96,T. Nguyen
+05-26-2025, West ,Noise Cancelling Headphones,149.99,1,149.99,M. Kowalski
+2025-09-16,South,Monitor Stand,$45.00,3,135.0,M. Kowalski
+05-16-2025,EAST,Wireless Mouse,24.99,5,124.95,
+03-17-2025,NORTH,Webcam HD,59.99,4,239.96,L. Dubois
+2025-01-05, South ,Ergonomic Chair Cushion,$39.99,8,319.92,S. Osei
+2025-04-23,south,USB-C Hub,$34.50,3,103.5,R. Fischer
+06-25-2025,east,Bluetooth Speaker,74.99,2,149.98,R. Fischer
+06/05/2025,South,Desk Lamp,29.95,5,149.75,L. Dubois
+04-17-2025,north,Laptop Sleeve,19.99,5,99.95,M. Kowalski
+09-19-2025,north,Wireless Mouse,24.99,6,149.94,T. Nguyen
+09-19-2025,South,Webcam HD,59.99,5,299.95,M. Kowalski
+09-16-2025, North ,Webcam HD,59.99,4,239.96,M. Kowalski
+12/07/2025,north,USB-C Hub,34.50,8,276.0,S. Osei
+03/04/2025,north,Ergonomic Chair Cushion,39.99,2,79.98,S. Osei
+05/02/2025, North ,USB-C Hub,34.50,8,276.0,L. Dubois
+2025-01-09,WEST,Desk Lamp,29.95,5,149.75,J. Alvarez
+2025-04-27,west,Noise Cancelling Headphones,$149.99,8,1199.92,R. Fischer
+01-29-2025,north,Bluetooth Speaker,74.99,6,449.94,R. Fischer
+2025-02-26, West ,Wireless Mouse,24.99,8,199.92,S. Osei
+2025-07-31, East ,USB-C Hub,34.50,1,34.5,T. Nguyen
+01-26-2025,North,Laptop Sleeve,$19.99,2,39.98,S. Osei
+10/06/2025,NORTH,Wireless Mouse,24.99,7,174.93,L. Dubois
+04-30-2025,east,Mechanical Keyboard,89.99,5,449.95,L. Dubois
+06-21-2025,west,Ergonomic Chair Cushion,39.99,6,239.94,S. Osei
+09-28-2025,SOUTH,Wireless Mouse,24.99,1,24.99,R. Fischer
+22/09/2025,SOUTH,Monitor Stand,45.00,2,90.0,L. Dubois
+09/03/2025, South ,Bluetooth Speaker,74.99,6,449.94,L. Dubois
+2025-05-29,South,Ergonomic Chair Cushion,39.99,7,279.93,T. Nguyen
+2025-09-09,north,Ergonomic Chair Cushion,39.99,4,159.96,J. Alvarez
+2025-04-16,NORTH,Desk Lamp,29.95,8,239.6,L. Dubois
+06-11-2025,east,Laptop Sleeve,19.99,2,39.98,S. Osei
+2025-05-29,SOUTH,Mechanical Keyboard,$89.99,6,539.94,J. Alvarez
+18/01/2025, West ,Bluetooth Speaker,$74.99,8,599.92,T. Nguyen
+24/02/2025,south,USB-C Hub,$34.50,7,241.5,J. Alvarez
+02/02/2025,WEST,Mechanical Keyboard,89.99,2,179.98,J. Alvarez
+08-08-2025,WEST,Monitor Stand,$45.00,1,45.0,S. Osei
+08-26-2025,east,Noise Cancelling Headphones,149.99,8,1199.92,L. Dubois
+09-08-2025,EAST,Monitor Stand,45.00,6,270.0,S. Osei
+2025-05-04,west,Noise Cancelling Headphones,149.99,2,299.98,R. Fischer
+26/09/2025, South ,Monitor Stand,45.00,7,315.0,R. Fischer
+07-19-2025,west,Laptop Sleeve,19.99,8,159.92,J. Alvarez
+24/08/2025,NORTH,Laptop Sleeve,19.99,8,159.92,L. Dubois
+2025-08-19, North ,USB-C Hub,34.50,5,172.5,M. Kowalski
+03/02/2025,North,Webcam HD,59.99,4,239.96,R. Fischer
+03-08-2025, South ,Noise Cancelling Headphones,149.99,1,149.99,L. Dubois
+18/03/2025, East ,Noise Cancelling Headphones,149.99,7,1049.93,J. Alvarez
+2025-09-30,SOUTH,Noise Cancelling Headphones,149.99,2,299.98,
+22/03/2025,EAST,Desk Lamp,$29.95,8,239.6,J. Alvarez
+06-14-2025,SOUTH,USB-C Hub,34.50,1,34.5,L. Dubois
+2025-06-19,north,Noise Cancelling Headphones,149.99,4,599.96,M. Kowalski
+03-26-2025,WEST,Noise Cancelling Headphones,149.99,6,899.94,M. Kowalski
+07-17-2025,WEST,Mechanical Keyboard,$89.99,7,629.93,S. Osei
+26/06/2025,east,USB-C Hub,34.50,1,34.5,S. Osei
+08/05/2025, North ,Mechanical Keyboard,$89.99,4,359.96,M. Kowalski
+03-30-2025,west,Noise Cancelling Headphones,$149.99,5,749.95,T. Nguyen
+2025-03-22, North ,USB-C Hub,$34.50,2,69.0,S. Osei
+2025-05-30,north,Webcam HD,59.99,3,179.97,
+02-14-2025,WEST,Ergonomic Chair Cushion,39.99,1,39.99,L. Dubois
+01-11-2025, West ,Laptop Sleeve,$19.99,4,79.96,S. Osei
+04-23-2025,WEST,Ergonomic Chair Cushion,$39.99,1,39.99,S. Osei
+02-18-2025,west,Desk Lamp,29.95,6,179.7,M. Kowalski
+2025-08-24,SOUTH,Monitor Stand,45.00,3,135.0,R. Fischer
+2025-03-17, North ,Desk Lamp,29.95,6,179.7,R. Fischer
+11/04/2025,West,Webcam HD,59.99,5,299.95,J. Alvarez
+03-04-2025, North ,Monitor Stand,$45.00,4,180.0,T. Nguyen
+07-04-2025,West,Webcam HD,59.99,1,59.99,T. Nguyen
+01-14-2025,South,Bluetooth Speaker,74.99,3,224.97,S. Osei
+06-29-2025,EAST,Desk Lamp,$29.95,3,89.85,R. Fischer
+06-17-2025,EAST,Monitor Stand,45.00,5,225.0,L. Dubois
+2025-01-01,WEST,Wireless Mouse,$24.99,1,24.99,M. Kowalski
+2025-05-13,North,Wireless Mouse,$24.99,3,74.97,M. Kowalski
+06-23-2025,EAST,Wireless Mouse,$24.99,4,99.96,T. Nguyen
+05/07/2025, South ,Laptop Sleeve,$19.99,7,139.93,L. Dubois
+2025-09-09,WEST,Monitor Stand,45.00,7,315.0,R. Fischer
+08/08/2025,EAST,Laptop Sleeve,$19.99,4,79.96,J. Alvarez
+03-01-2025,North,Monitor Stand,45.00,4,180.0,L. Dubois
+2025-05-01,EAST,Monitor Stand,45.00,4,180.0,R. Fischer
+15/08/2025,SOUTH,Mechanical Keyboard,89.99,7,629.93,M. Kowalski
+06-21-2025,EAST,USB-C Hub,$34.50,3,103.5,M. Kowalski
+25/06/2025,WEST,Mechanical Keyboard,89.99,5,449.95,S. Osei
+2025-03-20,NORTH,Noise Cancelling Headphones,149.99,1,149.99,R. Fischer
+09-21-2025, South ,Bluetooth Speaker,74.99,4,299.96,T. Nguyen
+07-09-2025,West,Mechanical Keyboard,89.99,3,269.97,T. Nguyen
+22/05/2025, South ,Wireless Mouse,24.99,6,149.94,T. Nguyen
+08-17-2025,South,Bluetooth Speaker,$74.99,7,524.93,T. Nguyen
+09-21-2025,SOUTH,USB-C Hub,34.50,7,241.5,J. Alvarez
+01/03/2025,East,Mechanical Keyboard,$89.99,8,719.92,R. Fischer
+2025-01-11,South,Monitor Stand,45.00,3,135.0,M. Kowalski
+19/07/2025,west,Monitor Stand,45.00,1,45.0,R. Fischer
+10/01/2025,WEST,Ergonomic Chair Cushion,39.99,2,79.98,T. Nguyen
+29/05/2025, South ,Monitor Stand,$45.00,1,45.0,L. Dubois
+2025-08-19,SOUTH,Bluetooth Speaker,74.99,6,449.94,
+2025-07-23,East,Wireless Mouse,24.99,8,199.92,L. Dubois
+2025-07-25,SOUTH,Desk Lamp,29.95,8,239.6,L. Dubois
+2025-08-05, North ,Desk Lamp,29.95,4,119.8,J. Alvarez
+11/07/2025, North ,Wireless Mouse,$24.99,7,174.93,J. Alvarez
+2025-01-20,south,Mechanical Keyboard,89.99,1,89.99,R. Fischer
+04-16-2025,East,Laptop Sleeve,$19.99,1,19.99,J. Alvarez
+2025-05-27,South,Bluetooth Speaker,74.99,6,449.94,T. Nguyen
+31/05/2025,EAST,Noise Cancelling Headphones,149.99,6,899.94,L. Dubois
+2025-05-13,west,Bluetooth Speaker,$74.99,5,374.95,M. Kowalski
+05-31-2025, East ,Ergonomic Chair Cushion,39.99,6,239.94,J. Alvarez
+2025-02-05,east,Mechanical Keyboard,89.99,7,629.93,M. Kowalski
+09-18-2025,NORTH,Ergonomic Chair Cushion,39.99,1,39.99,L. Dubois
+08-02-2025,NORTH,Webcam HD,59.99,8,479.92,J. Alvarez
+2025-03-30, East ,Noise Cancelling Headphones,149.99,7,1049.93,R. Fischer
+01-10-2025, East ,Noise Cancelling Headphones,$149.99,5,749.95,T. Nguyen
+27/07/2025, South ,Noise Cancelling Headphones,149.99,8,1199.92,M. Kowalski
+2025-08-15,east,Noise Cancelling Headphones,149.99,1,149.99,S. Osei
+05-11-2025, West ,Bluetooth Speaker,74.99,5,374.95,M. Kowalski
+04-14-2025, South ,Bluetooth Speaker,$74.99,3,224.97,J. Alvarez
+01-07-2025,North,Wireless Mouse,24.99,8,199.92,J. Alvarez
+2025-09-14,NORTH,Bluetooth Speaker,$74.99,8,599.92,T. Nguyen
+08-13-2025,south,Desk Lamp,29.95,4,119.8,T. Nguyen
+2025-07-15, East ,USB-C Hub,34.50,1,34.5,L. Dubois
+19/06/2025,south,Monitor Stand,$45.00,6,270.0,R. Fischer
+09-15-2025,north,Monitor Stand,45.00,1,45.0,S. Osei
+09-20-2025,NORTH,Laptop Sleeve,$19.99,5,99.95,S. Osei
+12/08/2025,North,Desk Lamp,$29.95,2,59.9,T. Nguyen
+2025-05-07, North ,Webcam HD,$59.99,5,299.95,
+07-05-2025,south,Desk Lamp,29.95,2,59.9,R. Fischer
+04-15-2025,WEST,Noise Cancelling Headphones,$149.99,3,449.97,L. Dubois
+09-17-2025, East ,Webcam HD,$59.99,6,359.94,M. Kowalski
+08/06/2025,EAST,Laptop Sleeve,$19.99,6,119.94,J. Alvarez
+2025-07-26,EAST,Webcam HD,59.99,8,479.92,M. Kowalski
+08/05/2025, North ,Noise Cancelling Headphones,149.99,4,599.96,L. Dubois
+09-11-2025,NORTH,Mechanical Keyboard,$89.99,2,179.98,J. Alvarez
+28/06/2025,North,Bluetooth Speaker,$74.99,2,149.98,J. Alvarez
+03-08-2025, West ,Mechanical Keyboard,89.99,8,719.92,R. Fischer
+2025-03-21, East ,Webcam HD,$59.99,6,359.94,J. Alvarez
+02-04-2025,SOUTH,USB-C Hub,34.50,7,241.5,R. Fischer
+06-21-2025,WEST,Bluetooth Speaker,$74.99,5,374.95,T. Nguyen
+11/02/2025,NORTH,Desk Lamp,$29.95,2,59.9,L. Dubois
+16/05/2025, South ,Laptop Sleeve,$19.99,5,99.95,S. Osei
+30/09/2025,South,Wireless Mouse,24.99,4,99.96,R. Fischer
+2025-09-12,south,Mechanical Keyboard,89.99,6,539.94,J. Alvarez
+03-18-2025,NORTH,Webcam HD,59.99,2,119.98,M. Kowalski
+06-18-2025,East,Bluetooth Speaker,74.99,1,74.99,S. Osei
+07/05/2025, South ,Desk Lamp,29.95,7,209.65,T. Nguyen
+2025-06-27, East ,Webcam HD,59.99,6,359.94,R. Fischer
+16/04/2025, East ,Wireless Mouse,24.99,7,174.93,L. Dubois
+2025-04-11,West,Desk Lamp,$29.95,4,119.8,L. Dubois
+05-02-2025,WEST,USB-C Hub,34.50,3,103.5,J. Alvarez
+02/06/2025,WEST,Laptop Sleeve,19.99,2,39.98,L. Dubois
+2025-07-29,West,Desk Lamp,29.95,5,149.75,M. Kowalski
+2025-02-15, South ,Noise Cancelling Headphones,$149.99,3,449.97,R. Fischer
+04-28-2025,West,Laptop Sleeve,19.99,5,99.95,M. Kowalski
+2025-05-30,EAST,Monitor Stand,45.00,6,270.0,T. Nguyen
+18/04/2025,South,Wireless Mouse,24.99,6,149.94,S. Osei
+02/02/2025,North,Mechanical Keyboard,89.99,2,179.98,L. Dubois
+2025-05-01,SOUTH,Ergonomic Chair Cushion,$39.99,5,199.95,S. Osei
+05-19-2025, South ,Monitor Stand,$45.00,5,225.0,R. Fischer
+05-23-2025,South,Noise Cancelling Headphones,149.99,7,1049.93,R. Fischer
+04-26-2025, West ,Desk Lamp,29.95,1,29.95,M. Kowalski
+2025-09-26,North,Desk Lamp,29.95,8,239.6,J. Alvarez
+02-25-2025,EAST,Laptop Sleeve,19.99,8,159.92,M. Kowalski
+09-04-2025, North ,Mechanical Keyboard,89.99,6,539.94,M. Kowalski
+06/03/2025, North ,USB-C Hub,$34.50,7,241.5,T. Nguyen
+04-28-2025,EAST,Monitor Stand,$45.00,1,45.0,R. Fischer
+27/03/2025,SOUTH,Ergonomic Chair Cushion,39.99,7,279.93,M. Kowalski
+08-10-2025,North,USB-C Hub,34.50,7,241.5,T. Nguyen
+2025-02-11, North ,Ergonomic Chair Cushion,$39.99,6,239.94,M. Kowalski
+22/01/2025,west,Bluetooth Speaker,74.99,2,149.98,S. Osei
+2025-09-21,West,Mechanical Keyboard,$89.99,3,269.97,S. Osei
+2025-08-12,East,Bluetooth Speaker,74.99,6,449.94,S. Osei
+05-21-2025,SOUTH,Laptop Sleeve,19.99,4,79.96,S. Osei
+01-05-2025,NORTH,Desk Lamp,$29.95,1,29.95,R. Fischer
+06-20-2025,West,Ergonomic Chair Cushion,39.99,6,239.94,M. Kowalski
+2025-07-06,South,USB-C Hub,$34.50,5,172.5,T. Nguyen
+03/04/2025, West ,Wireless Mouse,24.99,3,74.97,M. Kowalski
+23/09/2025, South ,Wireless Mouse,$24.99,4,99.96,M. Kowalski
+04-24-2025,SOUTH,Wireless Mouse,$24.99,3,74.97,M. Kowalski
+05/05/2025,SOUTH,Monitor Stand,$45.00,5,225.0,M. Kowalski
+09/09/2025,east,Mechanical Keyboard,$89.99,6,539.94,M. Kowalski
+07/08/2025, South ,Ergonomic Chair Cushion,39.99,1,39.99,S. Osei
+01-08-2025, East ,USB-C Hub,$34.50,8,276.0,
+07-11-2025, West ,Monitor Stand,$45.00,6,270.0,
+2025-07-18,EAST,Laptop Sleeve,$19.99,5,99.95,
+2025-07-11, East ,Monitor Stand,45.00,7,315.0,
+23/03/2025,West,Webcam HD,59.99,8,479.92,J. Alvarez
+09-28-2025,west,Noise Cancelling Headphones,149.99,5,749.95,L. Dubois
+26/02/2025,East,Wireless Mouse,$24.99,7,174.93,L. Dubois
+2025-06-02,East,Noise Cancelling Headphones,149.99,4,599.96,L. Dubois
+18/07/2025,SOUTH,Wireless Mouse,24.99,4,99.96,L. Dubois
+2025-08-30,WEST,Mechanical Keyboard,89.99,8,719.92,M. Kowalski
+11/02/2025,east,USB-C Hub,34.50,1,34.5,L. Dubois
+2025-08-18,NORTH,Wireless Mouse,24.99,5,124.95,T. Nguyen
+31/01/2025,West,Ergonomic Chair Cushion,39.99,7,279.93,L. Dubois
+2025-03-12,south,Laptop Sleeve,19.99,8,159.92,L. Dubois
+03/07/2025, West ,Bluetooth Speaker,$74.99,2,149.98,S. Osei
+07-13-2025, West ,Wireless Mouse,24.99,8,199.92,S. Osei
+2025-04-13,SOUTH,Desk Lamp,29.95,5,149.75,R. Fischer
+03/05/2025,East,Desk Lamp,29.95,1,29.95,T. Nguyen
+2025-01-01,NORTH,Webcam HD,59.99,4,239.96,L. Dubois
+02-19-2025,east,USB-C Hub,34.50,7,241.5,R. Fischer
+2025-09-15,East,Laptop Sleeve,$19.99,7,139.93,J. Alvarez
+28/02/2025,east,USB-C Hub,34.50,4,138.0,T. Nguyen
+2025-03-13, North ,Bluetooth Speaker,74.99,6,449.94,M. Kowalski
+2025-01-17,NORTH,Noise Cancelling Headphones,149.99,4,599.96,L. Dubois
+2025-03-24,North,Ergonomic Chair Cushion,39.99,5,199.95,J. Alvarez
+2025-01-21,East,Ergonomic Chair Cushion,39.99,5,199.95,M. Kowalski
+18/02/2025,West,Desk Lamp,29.95,1,29.95,R. Fischer
+07/04/2025,north,Bluetooth Speaker,$74.99,2,149.98,L. Dubois
+22/03/2025,west,USB-C Hub,34.50,4,138.0,T. Nguyen
+25/05/2025,WEST,Mechanical Keyboard,$89.99,5,449.95,L. Dubois
+08-06-2025,North,Laptop Sleeve,19.99,6,119.94,M. Kowalski
+02-23-2025, East ,Webcam HD,59.99,8,479.92,M. Kowalski
+08/04/2025,SOUTH,Mechanical Keyboard,$89.99,8,719.92,T. Nguyen
+03-21-2025, South ,Bluetooth Speaker,74.99,6,449.94,M. Kowalski
+08-15-2025,SOUTH,Ergonomic Chair Cushion,39.99,5,199.95,R. Fischer
+18/05/2025, South ,Monitor Stand,45.00,2,90.0,T. Nguyen
+02-20-2025,South,Laptop Sleeve,$19.99,8,159.92,L. Dubois
+04-17-2025,north,Laptop Sleeve,19.99,5,99.95,M. Kowalski
+2025-08-11,East,USB-C Hub,34.50,6,207.0,L. Dubois
+2025-05-24,South,Bluetooth Speaker,74.99,8,599.92,M. Kowalski
+2025-02-12,north,Desk Lamp,29.95,5,149.75,S. Osei
+2025-08-24, East ,Laptop Sleeve,19.99,7,139.93,S. Osei
+01-13-2025, West ,Ergonomic Chair Cushion,39.99,1,39.99,
+2025-02-28,south,Noise Cancelling Headphones,149.99,5,749.95,R. Fischer
+03-02-2025,West,USB-C Hub,34.50,1,34.5,J. Alvarez
+03-30-2025, North ,Laptop Sleeve,19.99,3,59.97,M. Kowalski
+17/09/2025,north,Wireless Mouse,24.99,3,74.97,L. Dubois
+03-25-2025, West ,Wireless Mouse,24.99,7,174.93,M. Kowalski
+15/01/2025,west,Bluetooth Speaker,74.99,2,149.98,L. Dubois
+09-18-2025,North,Bluetooth Speaker,74.99,7,524.93,M. Kowalski
+10/06/2025,West,Bluetooth Speaker,74.99,7,524.93,R. Fischer
+03/01/2025, East ,Desk Lamp,29.95,2,59.9,M. Kowalski
+01-07-2025,South,Ergonomic Chair Cushion,39.99,1,39.99,S. Osei
+05-12-2025,WEST,Monitor Stand,45.00,8,360.0,R. Fischer
+03/06/2025,north,USB-C Hub,34.50,3,103.5,S. Osei
+04-20-2025,North,Webcam HD,59.99,5,299.95,T. Nguyen
+2025-04-02, East ,Desk Lamp,29.95,2,59.9,R. Fischer
+18/05/2025,WEST,Laptop Sleeve,19.99,6,119.94,T. Nguyen
+07-07-2025,EAST,Mechanical Keyboard,89.99,7,629.93,M. Kowalski
+05-02-2025,west,Bluetooth Speaker,74.99,1,74.99,S. Osei
+03-16-2025,SOUTH,Mechanical Keyboard,$89.99,1,89.99,S. Osei
+29/03/2025, North ,Wireless Mouse,$24.99,1,24.99,L. Dubois
+2025-09-05, West ,Bluetooth Speaker,74.99,5,374.95,L. Dubois
+05-02-2025,east,Bluetooth Speaker,74.99,3,224.97,S. Osei
+04-21-2025,east,Desk Lamp,29.95,3,89.85,S. Osei
+20/05/2025,west,Wireless Mouse,24.99,2,49.98,L. Dubois
+2025-04-07,west,Ergonomic Chair Cushion,39.99,2,79.98,R. Fischer
+06/09/2025,NORTH,Noise Cancelling Headphones,149.99,5,749.95,S. Osei
+14/09/2025,South,Mechanical Keyboard,89.99,4,359.96,M. Kowalski
+2025-08-18, North ,Bluetooth Speaker,74.99,1,74.99,S. Osei
+09/03/2025, North ,Bluetooth Speaker,74.99,2,149.98,J. Alvarez
+01-11-2025,south,Mechanical Keyboard,89.99,5,449.95,J. Alvarez
+08/09/2025, West ,USB-C Hub,$34.50,7,241.5,L. Dubois
+2025-02-26, South ,Desk Lamp,29.95,2,59.9,R. Fischer
+02-14-2025, North ,USB-C Hub,34.50,8,276.0,R. Fischer
+2025-03-31,SOUTH,Mechanical Keyboard,$89.99,1,89.99,L. Dubois
+07-01-2025, West ,Mechanical Keyboard,89.99,4,359.96,T. Nguyen
+01-03-2025,West,Noise Cancelling Headphones,149.99,5,749.95,L. Dubois
+04-17-2025,East,Bluetooth Speaker,74.99,3,224.97,M. Kowalski
+02-15-2025,North,Desk Lamp,29.95,6,179.7,R. Fischer
+2025-02-03,NORTH,USB-C Hub,34.50,1,34.5,S. Osei
+25/06/2025,WEST,Mechanical Keyboard,89.99,5,449.95,S. Osei
+2025-01-07, North ,Desk Lamp,29.95,1,29.95,R. Fischer
+16/09/2025, South ,Monitor Stand,45.00,6,270.0,J. Alvarez
+27/07/2025,North,Ergonomic Chair Cushion,39.99,4,159.96,J. Alvarez
+2025-03-03,East,Wireless Mouse,$24.99,7,174.93,J. Alvarez
+2025-07-21,NORTH,Desk Lamp,29.95,7,209.65,J. Alvarez
+18/01/2025,EAST,Mechanical Keyboard,$89.99,4,359.96,T. Nguyen
+17/03/2025,East,USB-C Hub,34.50,4,138.0,M. Kowalski
+22/02/2025, North ,Mechanical Keyboard,$89.99,7,629.93,J. Alvarez
+2025-08-26,south,Monitor Stand,$45.00,8,360.0,L. Dubois
+2025-08-27,east,Laptop Sleeve,$19.99,2,39.98,M. Kowalski
+2025-01-14,West,USB-C Hub,$34.50,8,276.0,T. Nguyen
+2025-08-21,North,Desk Lamp,$29.95,6,179.7,S. Osei
+08/06/2025,south,Mechanical Keyboard,$89.99,3,269.97,S. Osei
+13/04/2025,SOUTH,Desk Lamp,29.95,2,59.9,S. Osei
+03-06-2025, South ,Ergonomic Chair Cushion,39.99,3,119.97,M. Kowalski
+2025-02-28,south,Laptop Sleeve,19.99,8,159.92,L. Dubois
+06/06/2025,WEST,Desk Lamp,29.95,3,89.85,S. Osei
+2025-02-03, North ,Ergonomic Chair Cushion,39.99,4,159.96,M. Kowalski
+04-29-2025,north,Mechanical Keyboard,$89.99,5,449.95,T. Nguyen
+27/06/2025,east,Desk Lamp,$29.95,8,239.6,M. Kowalski
+09/05/2025,North,Monitor Stand,45.00,7,315.0,M. Kowalski
+2025-03-21,North,USB-C Hub,34.50,5,172.5,M. Kowalski
+29/03/2025,SOUTH,Ergonomic Chair Cushion,$39.99,2,79.98,T. Nguyen
+2025-03-23, East ,Webcam HD,59.99,3,179.97,S. Osei
+2025-09-18, North ,Wireless Mouse,24.99,4,99.96,J. Alvarez
+2025-03-24,SOUTH,Mechanical Keyboard,89.99,1,89.99,M. Kowalski
+30/04/2025,WEST,Laptop Sleeve,19.99,1,19.99,S. Osei
+2025-07-16,SOUTH,Laptop Sleeve,19.99,2,39.98,M. Kowalski
+28/05/2025,North,Monitor Stand,$45.00,6,270.0,M. Kowalski
+06-23-2025, West ,Webcam HD,59.99,3,179.97,T. Nguyen
+04-20-2025,North,Noise Cancelling Headphones,$149.99,8,1199.92,T. Nguyen
+08-30-2025,West,Monitor Stand,45.00,8,360.0,T. Nguyen
+2025-09-15, East ,Webcam HD,59.99,8,479.92,M. Kowalski
+2025-05-07,west,Webcam HD,59.99,8,479.92,J. Alvarez
+24/05/2025, South ,Laptop Sleeve,19.99,7,139.93,J. Alvarez
+2025-09-07, East ,Noise Cancelling Headphones,149.99,8,1199.92,L. Dubois
+04/05/2025, South ,USB-C Hub,34.50,6,207.0,J. Alvarez
+09-28-2025,west,USB-C Hub,34.50,5,172.5,S. Osei
+02-14-2025,north,Ergonomic Chair Cushion,$39.99,3,119.97,S. Osei
+01-28-2025,west,Webcam HD,59.99,4,239.96,M. Kowalski
+14/08/2025,NORTH,Bluetooth Speaker,74.99,6,449.94,S. Osei
+01-12-2025,west,Webcam HD,$59.99,4,239.96,R. Fischer
+08-02-2025,east,Monitor Stand,45.00,2,90.0,L. Dubois
+05-28-2025,East,Desk Lamp,29.95,7,209.65,M. Kowalski
+2025-06-28,North,Laptop Sleeve,$19.99,2,39.98,S. Osei
+08-11-2025,WEST,Desk Lamp,29.95,6,179.7,J. Alvarez
+2025-08-25,EAST,USB-C Hub,34.50,8,276.0,
+03-05-2025,NORTH,Webcam HD,59.99,3,179.97,R. Fischer
+03-22-2025,WEST,Mechanical Keyboard,$89.99,2,179.98,L. Dubois
+2025-04-14,west,Monitor Stand,$45.00,8,360.0,J. Alvarez
+06-25-2025,West,Mechanical Keyboard,$89.99,6,539.94,T. Nguyen
+14/06/2025,SOUTH,Desk Lamp,$29.95,3,89.85,R. Fischer
+09-22-2025,North,Noise Cancelling Headphones,149.99,6,899.94,M. Kowalski
+03-02-2025,south,Laptop Sleeve,19.99,4,79.96,T. Nguyen
+2025-01-24, West ,Bluetooth Speaker,$74.99,8,599.92,R. Fischer
+09-12-2025,West,Monitor Stand,45.00,5,225.0,S. Osei
+02-27-2025,North,Wireless Mouse,$24.99,7,174.93,M. Kowalski
+2025-06-14,EAST,Desk Lamp,29.95,7,209.65,M. Kowalski
+02/01/2025, South ,Mechanical Keyboard,$89.99,7,629.93,L. Dubois
+08-21-2025,EAST,Desk Lamp,29.95,4,119.8,R. Fischer
+05-19-2025,East,Wireless Mouse,$24.99,6,149.94,T. Nguyen
+03-02-2025, East ,Webcam HD,59.99,8,479.92,S. Osei
+20/06/2025, South ,Noise Cancelling Headphones,$149.99,1,149.99,L. Dubois
+08-11-2025,West,Monitor Stand,45.00,2,90.0,M. Kowalski
+2025-07-04,north,Desk Lamp,29.95,3,89.85,J. Alvarez
+18/05/2025, South ,Bluetooth Speaker,74.99,4,299.96,L. Dubois
+08-12-2025,West,Bluetooth Speaker,$74.99,5,374.95,M. Kowalski
+07-03-2025,east,Bluetooth Speaker,$74.99,7,524.93,T. Nguyen
+01-09-2025, North ,Webcam HD,59.99,6,359.94,L. Dubois
+07-17-2025,east,USB-C Hub,$34.50,3,103.5,M. Kowalski
+03-28-2025,NORTH,Wireless Mouse,24.99,3,74.97,J. Alvarez
+01-10-2025,west,Laptop Sleeve,$19.99,3,59.97,S. Osei
+2025-03-31,north,USB-C Hub,34.50,2,69.0,R. Fischer
+06-13-2025,EAST,Mechanical Keyboard,89.99,8,719.92,R. Fischer
+08-10-2025,East,USB-C Hub,34.50,7,241.5,J. Alvarez
+05/09/2025,South,Wireless Mouse,24.99,8,199.92,R. Fischer
+2025-08-26, North ,Laptop Sleeve,19.99,1,19.99,R. Fischer
+28/02/2025, West ,Laptop Sleeve,19.99,3,59.97,M. Kowalski
+04-14-2025,east,Noise Cancelling Headphones,$149.99,8,1199.92,L. Dubois
+01-31-2025,east,Mechanical Keyboard,$89.99,6,539.94,J. Alvarez
+02/09/2025,North,Ergonomic Chair Cushion,39.99,6,239.94,T. Nguyen
+2025-03-05,east,Monitor Stand,45.00,2,90.0,M. Kowalski
+2025-04-05, West ,Ergonomic Chair Cushion,39.99,8,319.92,R. Fischer
+22/06/2025,WEST,USB-C Hub,34.50,8,276.0,J. Alvarez
+2025-05-04,South,USB-C Hub,34.50,7,241.5,J. Alvarez
+20/02/2025,NORTH,Ergonomic Chair Cushion,39.99,8,319.92,L. Dubois
+2025-03-12,NORTH,Bluetooth Speaker,74.99,2,149.98,L. Dubois
+2025-06-24, West ,Noise Cancelling Headphones,149.99,2,299.98,L. Dubois
+31/08/2025, West ,Wireless Mouse,$24.99,3,74.97,T. Nguyen
+14/01/2025,South,Monitor Stand,45.00,3,135.0,R. Fischer
+19/09/2025,South,Webcam HD,59.99,3,179.97,L. Dubois
+2025-02-26, North ,Noise Cancelling Headphones,$149.99,1,149.99,J. Alvarez
+03-12-2025,SOUTH,Laptop Sleeve,$19.99,2,39.98,T. Nguyen
+01/08/2025,EAST,Webcam HD,59.99,8,479.92,L. Dubois
+05-16-2025,EAST,Ergonomic Chair Cushion,39.99,1,39.99,
+03/02/2025,south,Webcam HD,$59.99,5,299.95,J. Alvarez
+16/02/2025,EAST,USB-C Hub,34.50,3,103.5,T. Nguyen
+26/04/2025,NORTH,Noise Cancelling Headphones,149.99,1,149.99,L. Dubois
+2025-04-20,SOUTH,Laptop Sleeve,$19.99,3,59.97,M. Kowalski
+27/07/2025,West,Laptop Sleeve,19.99,4,79.96,L. Dubois
+03/02/2025, East ,Mechanical Keyboard,$89.99,7,629.93,L. Dubois
+22/05/2025,West,USB-C Hub,34.50,3,103.5,R. Fischer
+2025-02-06,NORTH,Noise Cancelling Headphones,149.99,3,449.97,L. Dubois
+03/05/2025,east,Bluetooth Speaker,74.99,2,149.98,T. Nguyen
+13/01/2025,south,Mechanical Keyboard,$89.99,7,629.93,R. Fischer
+24/05/2025,east,Bluetooth Speaker,$74.99,7,524.93,S. Osei
+2025-08-31,north,USB-C Hub,34.50,8,276.0,M. Kowalski
+08-18-2025, North ,Noise Cancelling Headphones,$149.99,4,599.96,M. Kowalski
+2025-04-02, South ,Wireless Mouse,24.99,7,174.93,M. Kowalski
+12/04/2025, West ,Bluetooth Speaker,74.99,2,149.98,J. Alvarez
+2025-03-07, South ,Bluetooth Speaker,74.99,6,449.94,T. Nguyen
+07-27-2025,South,Wireless Mouse,$24.99,5,124.95,L. Dubois
+2025-04-01, North ,Noise Cancelling Headphones,$149.99,3,449.97,M. Kowalski
+25/01/2025,north,Webcam HD,$59.99,7,419.93,J. Alvarez
+2025-01-10,south,Desk Lamp,29.95,7,209.65,R. Fischer
+2025-07-18,EAST,Laptop Sleeve,$19.99,5,99.95,
+29/01/2025,east,USB-C Hub,34.50,5,172.5,L. Dubois
+07-12-2025,south,Laptop Sleeve,$19.99,7,139.93,J. Alvarez
+08-23-2025,South,Laptop Sleeve,19.99,4,79.96,J. Alvarez
+09-16-2025,SOUTH,Laptop Sleeve,19.99,1,19.99,J. Alvarez
+2025-05-26,EAST,USB-C Hub,$34.50,2,69.0,J. Alvarez
+12/01/2025, West ,Noise Cancelling Headphones,$149.99,6,899.94,R. Fischer
+2025-01-16, North ,Webcam HD,59.99,8,479.92,R. Fischer
+2025-04-25,south,Ergonomic Chair Cushion,$39.99,5,199.95,S. Osei
+04-07-2025,EAST,Monitor Stand,45.00,3,135.0,J. Alvarez
+2025-01-29,EAST,Laptop Sleeve,19.99,3,59.97,R. Fischer
+07/07/2025,east,USB-C Hub,34.50,6,207.0,
+2025-05-27,East,Monitor Stand,$45.00,1,45.0,S. Osei
+2025-03-17,WEST,Monitor Stand,45.00,2,90.0,J. Alvarez
+2025-05-31, North ,Laptop Sleeve,19.99,1,19.99,S. Osei
+26/04/2025,EAST,Ergonomic Chair Cushion,$39.99,2,79.98,T. Nguyen
+19/03/2025,West,Webcam HD,59.99,2,119.98,S. Osei
+2025-08-22,North,Webcam HD,59.99,6,359.94,M. Kowalski
+02-26-2025, South ,USB-C Hub,34.50,6,207.0,J. Alvarez
+2025-05-17,South,Desk Lamp,29.95,4,119.8,L. Dubois
+06/02/2025, North ,Desk Lamp,29.95,2,59.9,
+17/02/2025, South ,Mechanical Keyboard,89.99,1,89.99,R. Fischer
+2025-01-06,North,Bluetooth Speaker,74.99,2,149.98,J. Alvarez
+03-15-2025,EAST,Mechanical Keyboard,89.99,7,629.93,S. Osei
+05-09-2025,north,Webcam HD,$59.99,8,479.92,M. Kowalski
+05-12-2025,west,USB-C Hub,34.50,1,34.5,R. Fischer
+04-07-2025, East ,USB-C Hub,34.50,1,34.5,T. Nguyen
+2025-03-09, East ,Desk Lamp,29.95,8,239.6,T. Nguyen
+09-03-2025,NORTH,Webcam HD,59.99,8,479.92,R. Fischer
+03/05/2025, South ,Webcam HD,$59.99,6,359.94,L. Dubois
+2025-05-07, North ,Webcam HD,$59.99,5,299.95,
+2025-04-04,WEST,Noise Cancelling Headphones,149.99,6,899.94,J. Alvarez
+2025-04-18,south,Laptop Sleeve,19.99,7,139.93,M. Kowalski
+05/06/2025,west,Ergonomic Chair Cushion,$39.99,6,239.94,T. Nguyen
+07-17-2025,East,Desk Lamp,29.95,5,149.75,
+2025-05-25,EAST,Ergonomic Chair Cushion,$39.99,3,119.97,M. Kowalski
+05-25-2025,EAST,Mechanical Keyboard,$89.99,7,629.93,S. Osei
+2025-06-04,East,USB-C Hub,34.50,3,103.5,
+2025-09-23,EAST,Desk Lamp,$29.95,8,239.6,J. Alvarez
+28/02/2025, North ,Monitor Stand,45.00,1,45.0,M. Kowalski
+2025-01-08, West ,Webcam HD,59.99,1,59.99,T. Nguyen
+24/08/2025, South ,Bluetooth Speaker,74.99,1,74.99,J. Alvarez
+04-19-2025,North,USB-C Hub,34.50,1,34.5,M. Kowalski
+10/02/2025,West,Mechanical Keyboard,$89.99,2,179.98,L. Dubois
+05/01/2025,South,Mechanical Keyboard,89.99,1,89.99,R. Fischer
+2025-08-03,South,Noise Cancelling Headphones,149.99,5,749.95,L. Dubois
+07/03/2025,West,Ergonomic Chair Cushion,39.99,4,159.96,M. Kowalski
+01-05-2025,south,Webcam HD,59.99,7,419.93,S. Osei
+2025-09-24,NORTH,Bluetooth Speaker,$74.99,3,224.97,J. Alvarez
+15/01/2025, North ,Ergonomic Chair Cushion,39.99,1,39.99,L. Dubois
+23/06/2025,South,Noise Cancelling Headphones,$149.99,2,299.98,S. Osei
+06-07-2025,west,Monitor Stand,$45.00,4,180.0,L. Dubois
+01-02-2025,west,Monitor Stand,$45.00,8,360.0,J. Alvarez
+2025-03-11, North ,Bluetooth Speaker,74.99,3,224.97,R. Fischer
+09/08/2025,SOUTH,Webcam HD,$59.99,3,179.97,M. Kowalski
+09-19-2025,SOUTH,Wireless Mouse,24.99,3,74.97,R. Fischer
+03/01/2025, East ,Monitor Stand,$45.00,8,360.0,M. Kowalski
+2025-06-20,SOUTH,Webcam HD,$59.99,2,119.98,T. Nguyen
+2025-07-23,east,Webcam HD,59.99,3,179.97,T. Nguyen
+2025-03-11,West,Bluetooth Speaker,74.99,8,599.92,
+2025-06-06,south,Ergonomic Chair Cushion,39.99,6,239.94,J. Alvarez
+2025-02-16,south,Ergonomic Chair Cushion,39.99,3,119.97,R. Fischer
+09-19-2025, North ,USB-C Hub,34.50,8,276.0,R. Fischer
+02-09-2025,SOUTH,Webcam HD,59.99,8,479.92,S. Osei
+09-23-2025,north,Wireless Mouse,24.99,2,49.98,J. Alvarez
+16/08/2025,north,Webcam HD,59.99,8,479.92,S. Osei
+2025-02-25,West,Noise Cancelling Headphones,149.99,6,899.94,J. Alvarez
+07/08/2025, North ,Wireless Mouse,24.99,3,74.97,R. Fischer
+14/01/2025,West,Webcam HD,59.99,7,419.93,
+04-19-2025, West ,Mechanical Keyboard,$89.99,4,359.96,L. Dubois
+2025-02-03,EAST,Ergonomic Chair Cushion,$39.99,2,79.98,M. Kowalski
+05-17-2025, South ,Ergonomic Chair Cushion,$39.99,1,39.99,J. Alvarez
+03-03-2025,SOUTH,Monitor Stand,45.00,2,90.0,J. Alvarez
+2025-03-02,west,Webcam HD,59.99,3,179.97,M. Kowalski
+09-02-2025, South ,Bluetooth Speaker,74.99,5,374.95,J. Alvarez
+01/09/2025,south,Laptop Sleeve,$19.99,7,139.93,L. Dubois
+26/01/2025,West,Laptop Sleeve,19.99,3,59.97,M. Kowalski
+07/06/2025,west,Ergonomic Chair Cushion,$39.99,5,199.95,T. Nguyen
+2025-04-25, North ,Noise Cancelling Headphones,149.99,2,299.98,L. Dubois
+07-16-2025,south,Monitor Stand,45.00,1,45.0,T. Nguyen
+07-22-2025, East ,USB-C Hub,34.50,5,172.5,R. Fischer
+15/05/2025, East ,Desk Lamp,29.95,6,179.7,L. Dubois
+29/05/2025,south,Monitor Stand,45.00,6,270.0,T. Nguyen
+03-26-2025,south,Wireless Mouse,24.99,4,99.96,S. Osei
+24/07/2025,West,Desk Lamp,29.95,7,209.65,J. Alvarez
+02/09/2025, South ,Wireless Mouse,24.99,7,174.93,L. Dubois
+19/04/2025,East,Noise Cancelling Headphones,$149.99,8,1199.92,T. Nguyen
+2025-09-02, South ,Monitor Stand,45.00,1,45.0,L. Dubois
+01-08-2025,NORTH,Desk Lamp,29.95,4,119.8,L. Dubois
+08-30-2025,NORTH,Laptop Sleeve,19.99,5,99.95,L. Dubois
+13/06/2025,south,Mechanical Keyboard,89.99,4,359.96,L. Dubois
+10/04/2025,West,Mechanical Keyboard,89.99,2,179.98,J. Alvarez
+2025-09-06,NORTH,Monitor Stand,45.00,2,90.0,J. Alvarez
+2025-03-15,NORTH,Monitor Stand,45.00,8,360.0,R. Fischer
+2025-06-11,SOUTH,Wireless Mouse,24.99,4,99.96,S. Osei
+02-04-2025,east,Ergonomic Chair Cushion,39.99,8,319.92,J. Alvarez
+05-10-2025,NORTH,Wireless Mouse,$24.99,8,199.92,T. Nguyen
+2025-05-29,west,Mechanical Keyboard,89.99,8,719.92,S. Osei
+16/08/2025, South ,USB-C Hub,34.50,7,241.5,L. Dubois
+16/07/2025, South ,Mechanical Keyboard,89.99,5,449.95,L. Dubois
+27/01/2025,south,Bluetooth Speaker,74.99,5,374.95,
+2025-03-14, West ,Wireless Mouse,24.99,2,49.98,
+02/07/2025,east,Bluetooth Speaker,$74.99,7,524.93,M. Kowalski
+2025-05-08, North ,Webcam HD,59.99,7,419.93,M. Kowalski
+2025-06-16,South,Mechanical Keyboard,89.99,6,539.94,M. Kowalski
+28/07/2025,NORTH,Noise Cancelling Headphones,$149.99,3,449.97,M. Kowalski
+01-30-2025,WEST,Wireless Mouse,24.99,6,149.94,L. Dubois
+08-28-2025,South,Bluetooth Speaker,74.99,8,599.92,J. Alvarez
+05-21-2025,SOUTH,Monitor Stand,45.00,3,135.0,M. Kowalski
+05/07/2025, West ,Ergonomic Chair Cushion,39.99,1,39.99,M. Kowalski
+18/06/2025, South ,Bluetooth Speaker,74.99,1,74.99,M. Kowalski
+02-27-2025, East ,Bluetooth Speaker,74.99,7,524.93,M. Kowalski
+05-27-2025, South ,Ergonomic Chair Cushion,39.99,8,319.92,S. Osei
+26/07/2025, West ,USB-C Hub,34.50,3,103.5,M. Kowalski
+03-30-2025,West,USB-C Hub,34.50,2,69.0,T. Nguyen
+05-19-2025,South,Mechanical Keyboard,89.99,2,179.98,M. Kowalski
+03-26-2025,SOUTH,Wireless Mouse,24.99,6,149.94,J. Alvarez
+08/02/2025,south,Bluetooth Speaker,74.99,1,74.99,L. Dubois
+08/07/2025,west,Wireless Mouse,24.99,7,174.93,J. Alvarez
+01-14-2025,East,Monitor Stand,$45.00,2,90.0,J. Alvarez
+2025-02-07,north,Laptop Sleeve,$19.99,6,119.94,T. Nguyen
+06-09-2025, West ,Mechanical Keyboard,$89.99,3,269.97,M. Kowalski
+08-22-2025,south,Desk Lamp,29.95,3,89.85,L. Dubois
+08-13-2025,east,Monitor Stand,$45.00,3,135.0,J. Alvarez
+29/09/2025, North ,Bluetooth Speaker,74.99,8,599.92,S. Osei
+08-14-2025,East,Desk Lamp,29.95,1,29.95,M. Kowalski
+2025-05-04,SOUTH,USB-C Hub,34.50,1,34.5,L. Dubois
+09-26-2025,WEST,Mechanical Keyboard,89.99,7,629.93,L. Dubois
+2025-07-22,North,Noise Cancelling Headphones,149.99,5,749.95,L. Dubois
+09/09/2025,east,Mechanical Keyboard,$89.99,6,539.94,M. Kowalski
+2025-05-26,west,Mechanical Keyboard,89.99,1,89.99,R. Fischer
+08/04/2025,South,Ergonomic Chair Cushion,39.99,3,119.97,M. Kowalski
+28/07/2025,East,Laptop Sleeve,$19.99,3,59.97,R. Fischer
+09-11-2025,WEST,Wireless Mouse,24.99,7,174.93,S. Osei
+08-24-2025,EAST,Webcam HD,59.99,8,479.92,T. Nguyen
+01-23-2025, North ,Laptop Sleeve,19.99,1,19.99,S. Osei
+05/09/2025,west,Laptop Sleeve,$19.99,5,99.95,J. Alvarez
+2025-06-15,NORTH,Bluetooth Speaker,74.99,2,149.98,L. Dubois
+2025-04-09,West,Noise Cancelling Headphones,$149.99,5,749.95,J. Alvarez
+2025-07-05,south,Webcam HD,$59.99,5,299.95,R. Fischer
+2025-03-12,WEST,USB-C Hub,34.50,3,103.5,J. Alvarez
+04-11-2025,East,Desk Lamp,29.95,7,209.65,J. Alvarez
+03-03-2025,South,Webcam HD,59.99,2,119.98,J. Alvarez
+01-08-2025,SOUTH,Webcam HD,59.99,5,299.95,L. Dubois
+2025-02-10,west,Mechanical Keyboard,89.99,5,449.95,J. Alvarez
+13/07/2025, East ,Laptop Sleeve,19.99,3,59.97,M. Kowalski
+2025-01-15,south,Ergonomic Chair Cushion,39.99,2,79.98,J. Alvarez
+12/08/2025,west,Laptop Sleeve,19.99,6,119.94,
+09-09-2025, West ,USB-C Hub,$34.50,6,207.0,S. Osei
+2025-05-11,WEST,Webcam HD,$59.99,3,179.97,S. Osei
+10/06/2025,NORTH,Wireless Mouse,24.99,7,174.93,L. Dubois
+06/04/2025,east,Webcam HD,59.99,7,419.93,S. Osei
+2025-08-15,WEST,Bluetooth Speaker,74.99,2,149.98,M. Kowalski
+2025-03-19,east,USB-C Hub,34.50,6,207.0,L. Dubois
+2025-03-08,north,Laptop Sleeve,$19.99,8,159.92,M. Kowalski
+17/09/2025, North ,Desk Lamp,$29.95,4,119.8,T. Nguyen
+18/04/2025,South,Wireless Mouse,24.99,6,149.94,S. Osei
+2025-08-15,EAST,Mechanical Keyboard,89.99,3,269.97,J. Alvarez
+09-04-2025,South,Monitor Stand,45.00,4,180.0,T. Nguyen
+20/02/2025,east,Bluetooth Speaker,74.99,1,74.99,L. Dubois
+2025-02-09,south,Wireless Mouse,$24.99,6,149.94,M. Kowalski
+2025-03-17,SOUTH,Bluetooth Speaker,$74.99,7,524.93,S. Osei
+10/07/2025, South ,Ergonomic Chair Cushion,$39.99,7,279.93,S. Osei
+2025-07-18, North ,Laptop Sleeve,19.99,1,19.99,
+03-09-2025, West ,USB-C Hub,34.50,3,103.5,
+2025-02-17,EAST,Ergonomic Chair Cushion,39.99,6,239.94,S. Osei
+09/06/2025,East,Webcam HD,$59.99,3,179.97,S. Osei
+2025-03-03, West ,Bluetooth Speaker,74.99,1,74.99,
+18/05/2025,North,Noise Cancelling Headphones,149.99,7,1049.93,S. Osei
+2025-04-09,WEST,Wireless Mouse,24.99,4,99.96,M. Kowalski
+2025-05-16, North ,Desk Lamp,29.95,8,239.6,L. Dubois
+01/07/2025,west,Monitor Stand,45.00,2,90.0,
+01/05/2025,south,Monitor Stand,45.00,6,270.0,R. Fischer
+2025-04-22,SOUTH,Bluetooth Speaker,$74.99,6,449.94,S. Osei
+12/03/2025,south,Desk Lamp,29.95,5,149.75,R. Fischer
+2025-07-09,EAST,Bluetooth Speaker,74.99,1,74.99,L. Dubois
+27/07/2025, West ,Ergonomic Chair Cushion,39.99,5,199.95,S. Osei
+2025-08-15,EAST,Mechanical Keyboard,89.99,3,269.97,J. Alvarez
+25/07/2025,east,Ergonomic Chair Cushion,39.99,1,39.99,M. Kowalski
+2025-09-06,east,Ergonomic Chair Cushion,39.99,3,119.97,J. Alvarez
+18/06/2025,SOUTH,USB-C Hub,$34.50,6,207.0,L. Dubois
+2025-07-23,SOUTH,USB-C Hub,34.50,7,241.5,S. Osei
+2025-09-01, South ,Mechanical Keyboard,89.99,7,629.93,T. Nguyen
+02-24-2025,east,USB-C Hub,34.50,8,276.0,L. Dubois
+04/02/2025,west,Bluetooth Speaker,$74.99,8,599.92,M. Kowalski
+2025-03-21,SOUTH,Wireless Mouse,24.99,7,174.93,R. Fischer
+08-07-2025,NORTH,Ergonomic Chair Cushion,39.99,4,159.96,L. Dubois
+02-22-2025,North,Ergonomic Chair Cushion,39.99,4,159.96,M. Kowalski
+06/07/2025,west,Desk Lamp,$29.95,2,59.9,T. Nguyen
+31/03/2025,West,Desk Lamp,$29.95,3,89.85,T. Nguyen
+2025-07-09,EAST,Bluetooth Speaker,74.99,1,74.99,L. Dubois
+03/06/2025,east,Webcam HD,59.99,5,299.95,J. Alvarez
+2025-08-30,north,USB-C Hub,34.50,8,276.0,L. Dubois
+05-05-2025, South ,Ergonomic Chair Cushion,39.99,8,319.92,R. Fischer
+05-28-2025,WEST,Bluetooth Speaker,74.99,1,74.99,S. Osei
+29/05/2025, North ,Ergonomic Chair Cushion,39.99,2,79.98,J. Alvarez
+2025-09-24,East,Mechanical Keyboard,89.99,6,539.94,R. Fischer
+09-24-2025,West,Desk Lamp,29.95,5,149.75,J. Alvarez
+2025-02-01,north,Monitor Stand,45.00,1,45.0,M. Kowalski
+04/03/2025,south,Mechanical Keyboard,89.99,8,719.92,R. Fischer
+05-07-2025, West ,Monitor Stand,$45.00,3,135.0,S. Osei
+2025-06-10,north,Wireless Mouse,24.99,2,49.98,
+01-02-2025,East,Ergonomic Chair Cushion,39.99,4,159.96,J. Alvarez
+07-11-2025, South ,Wireless Mouse,$24.99,7,174.93,R. Fischer
+26/04/2025, West ,Ergonomic Chair Cushion,$39.99,5,199.95,R. Fischer
+03-27-2025,east,Ergonomic Chair Cushion,39.99,1,39.99,R. Fischer
+26/03/2025, North ,Laptop Sleeve,19.99,6,119.94,T. Nguyen
+2025-01-30,East,Laptop Sleeve,19.99,2,39.98,J. Alvarez
+2025-08-27,NORTH,Bluetooth Speaker,74.99,4,299.96,J. Alvarez
+2025-05-20, North ,Webcam HD,$59.99,7,419.93,R. Fischer
+02-13-2025, East ,Webcam HD,59.99,8,479.92,M. Kowalski
+2025-07-22,EAST,Desk Lamp,29.95,3,89.85,S. Osei
+2025-07-31, East ,Noise Cancelling Headphones,$149.99,3,449.97,R. Fischer
+05-26-2025,south,USB-C Hub,$34.50,1,34.5,J. Alvarez
+07-24-2025,EAST,Wireless Mouse,24.99,5,124.95,L. Dubois
+14/07/2025,EAST,Mechanical Keyboard,89.99,4,359.96,M. Kowalski
+22/09/2025,SOUTH,Monitor Stand,45.00,2,90.0,L. Dubois
+08-24-2025,East,USB-C Hub,$34.50,8,276.0,J. Alvarez
+25/07/2025,SOUTH,Desk Lamp,29.95,5,149.75,L. Dubois
+2025-02-20,EAST,Ergonomic Chair Cushion,$39.99,8,319.92,T. Nguyen
+01-18-2025,east,Wireless Mouse,24.99,1,24.99,L. Dubois
+27/04/2025,North,Monitor Stand,45.00,7,315.0,M. Kowalski
+17/01/2025,east,Bluetooth Speaker,$74.99,6,449.94,T. Nguyen
+26/07/2025,West,Mechanical Keyboard,89.99,2,179.98,R. Fischer
+01-05-2025,West,Laptop Sleeve,19.99,8,159.92,L. Dubois
+29/04/2025,south,Mechanical Keyboard,89.99,5,449.95,L. Dubois
+01-26-2025,East,Bluetooth Speaker,74.99,1,74.99,M. Kowalski
+06-12-2025,SOUTH,Noise Cancelling Headphones,149.99,8,1199.92,L. Dubois
+2025-02-20,West,USB-C Hub,34.50,4,138.0,
+08-07-2025,east,Wireless Mouse,$24.99,8,199.92,R. Fischer
+04-30-2025, South ,Desk Lamp,29.95,8,239.6,R. Fischer
+09-24-2025,south,Laptop Sleeve,19.99,3,59.97,R. Fischer
+06-04-2025, South ,Bluetooth Speaker,$74.99,7,524.93,S. Osei
+2025-08-16,west,Mechanical Keyboard,89.99,7,629.93,R. Fischer
+09-18-2025,south,Laptop Sleeve,19.99,5,99.95,T. Nguyen
+10/03/2025,north,Noise Cancelling Headphones,$149.99,3,449.97,M. Kowalski
+08-02-2025,East,Wireless Mouse,24.99,3,74.97,R. Fischer
+27/01/2025,south,Mechanical Keyboard,89.99,8,719.92,L. Dubois
+2025-02-01,south,Ergonomic Chair Cushion,39.99,4,159.96,M. Kowalski
+05-27-2025,WEST,Noise Cancelling Headphones,149.99,4,599.96,R. Fischer
+04-21-2025,west,Bluetooth Speaker,74.99,6,449.94,L. Dubois
+28/01/2025, South ,Mechanical Keyboard,89.99,1,89.99,J. Alvarez
+01-26-2025,North,Laptop Sleeve,$19.99,2,39.98,S. Osei
+2025-05-23,NORTH,Webcam HD,59.99,7,419.93,M. Kowalski
+2025-08-03,WEST,Bluetooth Speaker,74.99,6,449.94,J. Alvarez
+2025-02-05,EAST,Mechanical Keyboard,89.99,7,629.93,S. Osei
+19/01/2025,West,Bluetooth Speaker,$74.99,8,599.92,M. Kowalski
+08/03/2025, North ,Ergonomic Chair Cushion,$39.99,7,279.93,
+18/06/2025,WEST,Mechanical Keyboard,$89.99,8,719.92,J. Alvarez
+2025-06-05, East ,Ergonomic Chair Cushion,$39.99,5,199.95,R. Fischer
+04-05-2025, East ,Desk Lamp,29.95,8,239.6,L. Dubois
+2025-03-02,EAST,Desk Lamp,$29.95,7,209.65,L. Dubois
+07-24-2025,south,Wireless Mouse,24.99,1,24.99,M. Kowalski
+02-17-2025, East ,Bluetooth Speaker,74.99,4,299.96,T. Nguyen
+2025-07-26,SOUTH,Bluetooth Speaker,74.99,8,599.92,R. Fischer
+25/02/2025, East ,Monitor Stand,$45.00,1,45.0,M. Kowalski
+2025-02-28, East ,USB-C Hub,$34.50,8,276.0,S. Osei
+2025-09-20,north,Wireless Mouse,$24.99,6,149.94,M. Kowalski
+2025-03-30,north,Wireless Mouse,$24.99,5,124.95,T. Nguyen
+04-20-2025,NORTH,Bluetooth Speaker,74.99,3,224.97,M. Kowalski
+02-02-2025,east,Laptop Sleeve,19.99,6,119.94,T. Nguyen
+06/01/2025,West,Bluetooth Speaker,74.99,4,299.96,M. Kowalski
+04-06-2025,NORTH,Bluetooth Speaker,$74.99,3,224.97,R. Fischer
+2025-06-23, North ,Noise Cancelling Headphones,149.99,7,1049.93,T. Nguyen
+18/01/2025, West ,Mechanical Keyboard,89.99,2,179.98,J. Alvarez
+05-14-2025,East,Wireless Mouse,24.99,5,124.95,L. Dubois
+2025-09-29,WEST,USB-C Hub,34.50,4,138.0,S. Osei
+01-07-2025,North,USB-C Hub,34.50,2,69.0,L. Dubois
+06/02/2025, South ,Desk Lamp,29.95,6,179.7,S. Osei
+2025-05-26,East,Desk Lamp,$29.95,2,59.9,S. Osei
+03/06/2025, East ,Wireless Mouse,24.99,4,99.96,L. Dubois
+2025-01-03,NORTH,Wireless Mouse,$24.99,2,49.98,L. Dubois
+07/06/2025,North,Mechanical Keyboard,89.99,1,89.99,R. Fischer
+2025-06-15,East,Ergonomic Chair Cushion,39.99,8,319.92,L. Dubois
+30/07/2025, North ,Monitor Stand,45.00,3,135.0,S. Osei
+2025-09-01,south,Mechanical Keyboard,$89.99,6,539.94,S. Osei
+19/02/2025, North ,USB-C Hub,34.50,6,207.0,M. Kowalski
+2025-09-21,West,Mechanical Keyboard,$89.99,3,269.97,S. Osei
+2025-07-05, South ,Ergonomic Chair Cushion,39.99,8,319.92,T. Nguyen
+07-02-2025,North,Mechanical Keyboard,89.99,8,719.92,M. Kowalski
+03-05-2025, West ,Monitor Stand,45.00,6,270.0,S. Osei
+09-27-2025, South ,Laptop Sleeve,$19.99,1,19.99,T. Nguyen
+04-08-2025,North,Bluetooth Speaker,$74.99,4,299.96,L. Dubois
+08/07/2025,south,Webcam HD,59.99,7,419.93,L. Dubois
+2025-06-04, West ,USB-C Hub,34.50,2,69.0,S. Osei
+30/01/2025, South ,Laptop Sleeve,$19.99,8,159.92,R. Fischer
+2025-05-02, South ,Bluetooth Speaker,74.99,7,524.93,L. Dubois
+2025-02-02, East ,Bluetooth Speaker,$74.99,1,74.99,S. Osei
+2025-06-28,NORTH,Mechanical Keyboard,$89.99,4,359.96,L. Dubois
+26/02/2025, West ,Desk Lamp,29.95,7,209.65,S. Osei
+06-29-2025,NORTH,Noise Cancelling Headphones,149.99,4,599.96,T. Nguyen
+08-23-2025,SOUTH,Noise Cancelling Headphones,$149.99,1,149.99,L. Dubois
+05/05/2025,east,Desk Lamp,29.95,8,239.6,R. Fischer
+06-14-2025,EAST,Laptop Sleeve,$19.99,8,159.92,M. Kowalski
+10/04/2025,South,Wireless Mouse,24.99,5,124.95,L. Dubois
+2025-02-11, West ,USB-C Hub,$34.50,3,103.5,J. Alvarez
+2025-09-26, South ,Webcam HD,$59.99,8,479.92,M. Kowalski
+06-05-2025,North,Noise Cancelling Headphones,$149.99,5,749.95,T. Nguyen
+02/02/2025, East ,Laptop Sleeve,$19.99,5,99.95,J. Alvarez
+04-15-2025,south,USB-C Hub,34.50,7,241.5,L. Dubois
+2025-05-23,South,Ergonomic Chair Cushion,39.99,4,159.96,T. Nguyen
+2025-01-11, North ,Laptop Sleeve,19.99,4,79.96,J. Alvarez
+08/04/2025, South ,USB-C Hub,34.50,4,138.0,R. Fischer
+2025-08-26, South ,Wireless Mouse,24.99,2,49.98,S. Osei
+06-26-2025,EAST,Noise Cancelling Headphones,$149.99,2,299.98,L. Dubois
+02-17-2025,East,Monitor Stand,45.00,7,315.0,S. Osei
+04-08-2025,east,Desk Lamp,29.95,5,149.75,S. Osei
+18/05/2025, North ,Monitor Stand,$45.00,7,315.0,M. Kowalski
+06-29-2025,NORTH,Noise Cancelling Headphones,149.99,4,599.96,T. Nguyen
+08-06-2025,West,Mechanical Keyboard,89.99,2,179.98,T. Nguyen
+21/05/2025, East ,Monitor Stand,45.00,3,135.0,L. Dubois
+11/02/2025, North ,Noise Cancelling Headphones,149.99,1,149.99,J. Alvarez
+2025-07-03,EAST,Wireless Mouse,$24.99,4,99.96,L. Dubois
+2025-03-18,North,Webcam HD,$59.99,3,179.97,L. Dubois
+28/05/2025,west,Laptop Sleeve,$19.99,1,19.99,R. Fischer
+2025-05-05, West ,Noise Cancelling Headphones,$149.99,4,599.96,T. Nguyen
+19/06/2025, North ,Mechanical Keyboard,89.99,7,629.93,R. Fischer
+02-07-2025, North ,Desk Lamp,29.95,2,59.9,T. Nguyen
+01-06-2025, West ,Webcam HD,$59.99,7,419.93,M. Kowalski
+01-04-2025,south,Noise Cancelling Headphones,149.99,1,149.99,
+24/06/2025, West ,USB-C Hub,34.50,7,241.5,
+27/08/2025,East,Wireless Mouse,24.99,3,74.97,J. Alvarez
+01-02-2025,East,Wireless Mouse,$24.99,8,199.92,S. Osei
+03-01-2025,NORTH,Mechanical Keyboard,89.99,4,359.96,S. Osei
+15/06/2025,South,Bluetooth Speaker,$74.99,4,299.96,M. Kowalski
+12/04/2025, West ,Bluetooth Speaker,74.99,2,149.98,J. Alvarez
+2025-07-06,North,Bluetooth Speaker,74.99,1,74.99,T. Nguyen
+06/03/2025, East ,Laptop Sleeve,19.99,1,19.99,S. Osei
+10/06/2025,west,Mechanical Keyboard,89.99,6,539.94,S. Osei
+07/03/2025, West ,Desk Lamp,$29.95,8,239.6,L. Dubois
+06-28-2025,NORTH,Ergonomic Chair Cushion,$39.99,4,159.96,M. Kowalski
+03/05/2025,East,Bluetooth Speaker,$74.99,5,374.95,S. Osei
+25/02/2025,EAST,Mechanical Keyboard,89.99,5,449.95,M. Kowalski
+04/04/2025,East,Webcam HD,59.99,5,299.95,M. Kowalski
+01-02-2025,EAST,Mechanical Keyboard,$89.99,3,269.97,M. Kowalski
+04-09-2025,WEST,Wireless Mouse,$24.99,1,24.99,L. Dubois
+06-07-2025,West,Laptop Sleeve,19.99,6,119.94,J. Alvarez
+2025-04-12,West,USB-C Hub,34.50,2,69.0,M. Kowalski
+22/04/2025,WEST,USB-C Hub,$34.50,6,207.0,R. Fischer
+28/03/2025,east,Laptop Sleeve,$19.99,2,39.98,T. Nguyen
+08-03-2025,West,Wireless Mouse,24.99,7,174.93,T. Nguyen
+04-22-2025,north,Noise Cancelling Headphones,$149.99,5,749.95,R. Fischer
+17/02/2025,East,Laptop Sleeve,$19.99,3,59.97,T. Nguyen
+12/08/2025,WEST,Monitor Stand,$45.00,5,225.0,T. Nguyen
+06-30-2025,west,Webcam HD,59.99,8,479.92,L. Dubois
+2025-05-16,east,Ergonomic Chair Cushion,39.99,4,159.96,T. Nguyen
+2025-08-12,east,Bluetooth Speaker,74.99,8,599.92,L. Dubois
+22/08/2025,North,Noise Cancelling Headphones,149.99,3,449.97,R. Fischer
+2025-08-04,NORTH,Monitor Stand,45.00,7,315.0,M. Kowalski
+11/07/2025,EAST,Webcam HD,59.99,8,479.92,S. Osei
+2025-03-11, East ,Monitor Stand,45.00,5,225.0,R. Fischer
+07-20-2025,east,Laptop Sleeve,19.99,7,139.93,S. Osei
+01-08-2025,North,Noise Cancelling Headphones,149.99,5,749.95,M. Kowalski
+2025-09-18, East ,Monitor Stand,$45.00,5,225.0,J. Alvarez
+2025-05-02,east,Ergonomic Chair Cushion,39.99,5,199.95,M. Kowalski
+04-18-2025,East,Monitor Stand,45.00,8,360.0,J. Alvarez
+05/06/2025,west,Monitor Stand,45.00,5,225.0,J. Alvarez
+01-26-2025,East,Desk Lamp,29.95,7,209.65,T. Nguyen
+05-14-2025, North ,Mechanical Keyboard,89.99,4,359.96,M. Kowalski
+02/06/2025,WEST,Desk Lamp,$29.95,2,59.9,T. Nguyen
+05-01-2025,east,Mechanical Keyboard,$89.99,7,629.93,J. Alvarez
+2025-07-20,EAST,Mechanical Keyboard,89.99,8,719.92,M. Kowalski
+12/04/2025, South ,Mechanical Keyboard,89.99,7,629.93,T. Nguyen
+20/07/2025, North ,Bluetooth Speaker,74.99,6,449.94,J. Alvarez
+2025-07-07,East,Bluetooth Speaker,74.99,2,149.98,T. Nguyen
+2025-09-07,South,Mechanical Keyboard,89.99,1,89.99,M. Kowalski
+09/09/2025,west,Mechanical Keyboard,$89.99,6,539.94,R. Fischer
+27/01/2025, North ,Webcam HD,59.99,6,359.94,M. Kowalski
+2025-01-22, East ,Ergonomic Chair Cushion,39.99,1,39.99,R. Fischer
+2025-01-26,WEST,Mechanical Keyboard,89.99,8,719.92,S. Osei
+26/08/2025,south,Laptop Sleeve,19.99,3,59.97,L. Dubois
+2025-06-22,WEST,Webcam HD,59.99,6,359.94,R. Fischer
+03-10-2025, East ,Ergonomic Chair Cushion,39.99,7,279.93,R. Fischer
+13/07/2025,south,USB-C Hub,34.50,1,34.5,M. Kowalski
+23/07/2025,East,Laptop Sleeve,19.99,3,59.97,S. Osei
+2025-09-01,west,Laptop Sleeve,$19.99,7,139.93,J. Alvarez
+2025-07-24,South,Noise Cancelling Headphones,149.99,5,749.95,R. Fischer
+11/06/2025,EAST,Mechanical Keyboard,89.99,8,719.92,M. Kowalski
+03-10-2025,SOUTH,Webcam HD,59.99,2,119.98,T. Nguyen
+04-06-2025, South ,Monitor Stand,45.00,5,225.0,
+16/04/2025, East ,Wireless Mouse,24.99,7,174.93,L. Dubois
+04/07/2025, East ,USB-C Hub,34.50,5,172.5,M. Kowalski
+02-09-2025,North,Bluetooth Speaker,74.99,6,449.94,L. Dubois
+27/05/2025, West ,Noise Cancelling Headphones,149.99,2,299.98,M. Kowalski
+2025-05-16,East,Wireless Mouse,24.99,7,174.93,T. Nguyen
+02-13-2025,WEST,Mechanical Keyboard,$89.99,7,629.93,R. Fischer
+08-29-2025, North ,Wireless Mouse,24.99,8,199.92,L. Dubois
+2025-07-26, East ,Webcam HD,59.99,4,239.96,J. Alvarez
+07-17-2025, North ,Wireless Mouse,24.99,2,49.98,S. Osei
+02/08/2025,west,Mechanical Keyboard,89.99,6,539.94,S. Osei
+2025-09-28,South,Mechanical Keyboard,89.99,4,359.96,R. Fischer
+2025-03-23,North,Monitor Stand,45.00,6,270.0,L. Dubois
+07/05/2025,EAST,Webcam HD,$59.99,5,299.95,J. Alvarez
+04-14-2025,NORTH,Bluetooth Speaker,74.99,8,599.92,
+05-14-2025,West,Mechanical Keyboard,89.99,8,719.92,T. Nguyen
+07-05-2025,north,Ergonomic Chair Cushion,39.99,2,79.98,T. Nguyen
+03-28-2025,west,Desk Lamp,29.95,3,89.85,M. Kowalski
+11/04/2025, South ,USB-C Hub,34.50,6,207.0,R. Fischer
+08-28-2025,North,Mechanical Keyboard,89.99,4,359.96,S. Osei
+04-20-2025,North,Ergonomic Chair Cushion,39.99,7,279.93,T. Nguyen
+2025-06-08,East,Monitor Stand,45.00,1,45.0,J. Alvarez
+07-17-2025,West,Monitor Stand,$45.00,3,135.0,T. Nguyen
+25/08/2025, East ,Bluetooth Speaker,74.99,7,524.93,L. Dubois
+2025-02-01,SOUTH,Ergonomic Chair Cushion,39.99,6,239.94,T. Nguyen
+02/05/2025,North,Noise Cancelling Headphones,149.99,8,1199.92,J. Alvarez
+16/03/2025,NORTH,Desk Lamp,29.95,6,179.7,S. Osei
+14/03/2025,South,Webcam HD,$59.99,3,179.97,L. Dubois
+2025-01-04,East,Monitor Stand,45.00,1,45.0,J. Alvarez
+09-03-2025, East ,Webcam HD,59.99,4,239.96,J. Alvarez
+2025-04-02, West ,Wireless Mouse,24.99,7,174.93,M. Kowalski
+2025-07-17, South ,Laptop Sleeve,19.99,1,19.99,L. Dubois
+09-10-2025, South ,Ergonomic Chair Cushion,39.99,7,279.93,M. Kowalski
+16/06/2025,WEST,USB-C Hub,34.50,7,241.5,S. Osei
+02-16-2025,north,Webcam HD,59.99,4,239.96,M. Kowalski
+20/02/2025,WEST,Noise Cancelling Headphones,149.99,7,1049.93,S. Osei
+2025-03-28,East,USB-C Hub,$34.50,8,276.0,J. Alvarez
+22/02/2025,SOUTH,Laptop Sleeve,19.99,8,159.92,T. Nguyen
+2025-04-04,North,USB-C Hub,$34.50,4,138.0,
+09-06-2025,SOUTH,Ergonomic Chair Cushion,39.99,4,159.96,J. Alvarez
+2025-02-10,West,Bluetooth Speaker,$74.99,1,74.99,T. Nguyen
+2025-08-27,east,Laptop Sleeve,$19.99,3,59.97,M. Kowalski
+05-15-2025,south,Noise Cancelling Headphones,149.99,7,1049.93,L. Dubois
+23/07/2025, North ,Noise Cancelling Headphones,149.99,5,749.95,L. Dubois
+13/04/2025,North,Mechanical Keyboard,89.99,7,629.93,R. Fischer
+2025-09-13,west,Desk Lamp,29.95,5,149.75,L. Dubois
+07-03-2025,east,Desk Lamp,29.95,1,29.95,S. Osei
+02-23-2025,west,Bluetooth Speaker,74.99,3,224.97,
+08/01/2025,SOUTH,Noise Cancelling Headphones,149.99,1,149.99,S. Osei
+01-25-2025, East ,Monitor Stand,45.00,4,180.0,M. Kowalski
+07-20-2025,west,Monitor Stand,45.00,4,180.0,R. Fischer
+2025-06-06,NORTH,Webcam HD,59.99,8,479.92,R. Fischer
+08-28-2025,South,Bluetooth Speaker,74.99,8,599.92,J. Alvarez
+06-05-2025,North,Ergonomic Chair Cushion,39.99,8,319.92,M. Kowalski
+01/02/2025,North,Bluetooth Speaker,74.99,8,599.92,S. Osei
+19/04/2025, South ,Webcam HD,59.99,7,419.93,L. Dubois
+02/01/2025,East,USB-C Hub,34.50,4,138.0,J. Alvarez
+27/06/2025, South ,Noise Cancelling Headphones,$149.99,2,299.98,J. Alvarez
+05-06-2025,NORTH,Laptop Sleeve,$19.99,5,99.95,J. Alvarez
+2025-08-27,West,Bluetooth Speaker,$74.99,2,149.98,T. Nguyen
+04-11-2025,West,USB-C Hub,34.50,2,69.0,L. Dubois
+2025-06-15,West,Bluetooth Speaker,$74.99,3,224.97,J. Alvarez
+07-16-2025, North ,Desk Lamp,29.95,1,29.95,T. Nguyen
+01-29-2025, North ,USB-C Hub,34.50,4,138.0,R. Fischer
+2025-07-18,EAST,Desk Lamp,29.95,3,89.85,J. Alvarez
+05-01-2025,North,Bluetooth Speaker,74.99,1,74.99,S. Osei
+06/02/2025,East,Desk Lamp,29.95,3,89.85,S. Osei
+2025-04-21,WEST,Desk Lamp,$29.95,6,179.7,J. Alvarez
+2025-02-06, West ,Noise Cancelling Headphones,149.99,3,449.97,J. Alvarez
+01-04-2025,south,Noise Cancelling Headphones,$149.99,2,299.98,L. Dubois
+08-14-2025,West,Monitor Stand,45.00,8,360.0,T. Nguyen
+06-29-2025,WEST,Laptop Sleeve,19.99,4,79.96,S. Osei
+2025-07-01,West,Laptop Sleeve,19.99,2,39.98,T. Nguyen
+07-03-2025,north,Wireless Mouse,24.99,3,74.97,L. Dubois
+06-30-2025,south,Bluetooth Speaker,$74.99,6,449.94,R. Fischer
+12/06/2025,South,Bluetooth Speaker,$74.99,1,74.99,M. Kowalski
+2025-03-20, West ,Monitor Stand,45.00,6,270.0,L. Dubois
+05/02/2025,EAST,Desk Lamp,$29.95,4,119.8,J. Alvarez
+2025-06-01,East,Webcam HD,$59.99,6,359.94,S. Osei
+23/05/2025, West ,Desk Lamp,$29.95,3,89.85,S. Osei
+2025-06-14,SOUTH,Desk Lamp,$29.95,4,119.8,T. Nguyen
+27/06/2025, South ,Noise Cancelling Headphones,$149.99,2,299.98,J. Alvarez
+18/01/2025, North ,Wireless Mouse,24.99,5,124.95,S. Osei
+07-25-2025, North ,Desk Lamp,29.95,7,209.65,T. Nguyen
+27/05/2025,north,Bluetooth Speaker,74.99,5,374.95,T. Nguyen
+07-12-2025,West,Desk Lamp,$29.95,3,89.85,R. Fischer
+09-11-2025, East ,Monitor Stand,45.00,1,45.0,M. Kowalski
+01-03-2025, East ,Ergonomic Chair Cushion,39.99,7,279.93,T. Nguyen
+2025-04-07,EAST,Noise Cancelling Headphones,$149.99,5,749.95,T. Nguyen
+2025-05-21,south,Noise Cancelling Headphones,149.99,5,749.95,S. Osei
+06-19-2025,East,Bluetooth Speaker,74.99,8,599.92,S. Osei
+29/03/2025,South,Mechanical Keyboard,89.99,6,539.94,T. Nguyen
+2025-04-16,east,Monitor Stand,45.00,8,360.0,R. Fischer
+2025-06-20,West,Wireless Mouse,$24.99,5,124.95,J. Alvarez
+08/02/2025, West ,Monitor Stand,45.00,4,180.0,M. Kowalski
+2025-07-12,east,Bluetooth Speaker,$74.99,3,224.97,L. Dubois
+06-18-2025,West,Webcam HD,59.99,4,239.96,R. Fischer
+10/05/2025,EAST,Noise Cancelling Headphones,149.99,6,899.94,J. Alvarez
+2025-04-24, North ,USB-C Hub,34.50,5,172.5,R. Fischer
+26/04/2025,EAST,Ergonomic Chair Cushion,39.99,7,279.93,J. Alvarez
+28/07/2025,WEST,USB-C Hub,$34.50,1,34.5,J. Alvarez
+20/08/2025,North,Laptop Sleeve,19.99,5,99.95,
+02-18-2025, North ,Mechanical Keyboard,89.99,7,629.93,M. Kowalski
+2025-02-09, East ,Wireless Mouse,24.99,7,174.93,R. Fischer
+03-13-2025,west,Noise Cancelling Headphones,149.99,5,749.95,S. Osei
+05/07/2025, South ,Laptop Sleeve,$19.99,7,139.93,L. Dubois
+08-14-2025, South ,Noise Cancelling Headphones,149.99,8,1199.92,T. Nguyen
+15/04/2025,EAST,Noise Cancelling Headphones,149.99,7,1049.93,T. Nguyen
+01-23-2025,WEST,Mechanical Keyboard,89.99,1,89.99,L. Dubois
+2025-08-05,north,Bluetooth Speaker,74.99,7,524.93,T. Nguyen
+25/07/2025,north,Wireless Mouse,24.99,6,149.94,J. Alvarez
+02-14-2025, South ,Ergonomic Chair Cushion,39.99,5,199.95,M. Kowalski
+25/09/2025,south,USB-C Hub,34.50,7,241.5,S. Osei
+08-21-2025,NORTH,Monitor Stand,45.00,2,90.0,L. Dubois
+02-21-2025,EAST,USB-C Hub,34.50,2,69.0,M. Kowalski
+2025-05-07,west,Webcam HD,59.99,8,479.92,J. Alvarez
+2025-04-13, West ,Bluetooth Speaker,74.99,8,599.92,S. Osei
+04-19-2025,North,Noise Cancelling Headphones,149.99,1,149.99,L. Dubois
+25/06/2025,south,Monitor Stand,45.00,3,135.0,R. Fischer
+03-13-2025,west,Noise Cancelling Headphones,149.99,5,749.95,S. Osei
+01-19-2025,South,Monitor Stand,45.00,5,225.0,M. Kowalski
+11/04/2025,SOUTH,Desk Lamp,29.95,7,209.65,J. Alvarez
+08/03/2025,West,Noise Cancelling Headphones,149.99,1,149.99,J. Alvarez
+2025-01-16, North ,Webcam HD,59.99,8,479.92,R. Fischer
+2025-02-04, West ,Wireless Mouse,24.99,7,174.93,J. Alvarez
+29/08/2025,West,Monitor Stand,$45.00,1,45.0,L. Dubois
+02-13-2025, East ,USB-C Hub,34.50,8,276.0,T. Nguyen
+06-05-2025,East,Bluetooth Speaker,74.99,2,149.98,M. Kowalski
+03/03/2025,East,Desk Lamp,29.95,5,149.75,T. Nguyen
+08/03/2025, South ,Desk Lamp,29.95,7,209.65,T. Nguyen
+04-14-2025,north,Desk Lamp,29.95,6,179.7,R. Fischer
+2025-06-18, North ,Laptop Sleeve,$19.99,1,19.99,L. Dubois
+06/07/2025, North ,Monitor Stand,45.00,5,225.0,R. Fischer
+2025-01-05,EAST,Mechanical Keyboard,89.99,4,359.96,R. Fischer
+21/02/2025, East ,Monitor Stand,45.00,8,360.0,T. Nguyen
+12/01/2025,east,Monitor Stand,$45.00,5,225.0,R. Fischer
+2025-08-09,south,Webcam HD,$59.99,8,479.92,J. Alvarez
+08/09/2025,SOUTH,Ergonomic Chair Cushion,$39.99,6,239.94,L. Dubois
+04-15-2025,south,Monitor Stand,45.00,4,180.0,L. Dubois
+07-14-2025,SOUTH,Ergonomic Chair Cushion,$39.99,1,39.99,S. Osei
+2025-03-31, South ,Wireless Mouse,24.99,6,149.94,J. Alvarez
+19/07/2025,SOUTH,Mechanical Keyboard,$89.99,5,449.95,S. Osei
+01-14-2025,East,Monitor Stand,$45.00,2,90.0,J. Alvarez
+2025-04-05, East ,Mechanical Keyboard,89.99,5,449.95,J. Alvarez
+2025-07-10, East ,Webcam HD,59.99,4,239.96,T. Nguyen
+28/05/2025,east,Webcam HD,59.99,2,119.98,R. Fischer
+07/01/2025,east,Mechanical Keyboard,89.99,4,359.96,M. Kowalski
+05-21-2025, North ,USB-C Hub,$34.50,4,138.0,R. Fischer
+2025-03-19,east,USB-C Hub,34.50,6,207.0,L. Dubois
+02-21-2025, East ,Bluetooth Speaker,74.99,5,374.95,M. Kowalski
+2025-06-06,East,Webcam HD,59.99,5,299.95,R. Fischer
+2025-02-05,East,Desk Lamp,$29.95,3,89.85,M. Kowalski
+23/04/2025,NORTH,Noise Cancelling Headphones,149.99,5,749.95,R. Fischer
+07/02/2025, South ,Ergonomic Chair Cushion,39.99,2,79.98,L. Dubois
+05-15-2025, West ,Mechanical Keyboard,89.99,6,539.94,L. Dubois
+2025-01-09, South ,Monitor Stand,45.00,3,135.0,J. Alvarez
+04-20-2025,east,USB-C Hub,34.50,5,172.5,J. Alvarez
+2025-03-09,East,Mechanical Keyboard,89.99,5,449.95,J. Alvarez
+01-29-2025, North ,USB-C Hub,34.50,4,138.0,R. Fischer
+04-25-2025, North ,Monitor Stand,45.00,8,360.0,S. Osei
+2025-07-02, East ,Noise Cancelling Headphones,149.99,1,149.99,J. Alvarez
+06-22-2025,SOUTH,Desk Lamp,29.95,8,239.6,R. Fischer
+21/02/2025,east,Mechanical Keyboard,$89.99,7,629.93,M. Kowalski
+04-27-2025,East,Laptop Sleeve,19.99,3,59.97,L. Dubois
+05-28-2025,East,Bluetooth Speaker,74.99,7,524.93,R. Fischer
+26/03/2025,EAST,Laptop Sleeve,19.99,3,59.97,L. Dubois
+03-18-2025,NORTH,Webcam HD,59.99,7,419.93,J. Alvarez
+2025-01-15,WEST,Laptop Sleeve,19.99,4,79.96,J. Alvarez
+03-21-2025,east,Wireless Mouse,24.99,7,174.93,J. Alvarez
+10/04/2025, North ,Wireless Mouse,$24.99,2,49.98,S. Osei
+18/02/2025,West,Ergonomic Chair Cushion,39.99,8,319.92,J. Alvarez
+04-16-2025,east,USB-C Hub,34.50,5,172.5,M. Kowalski
+09/07/2025,West,Desk Lamp,29.95,7,209.65,S. Osei
+04-09-2025,SOUTH,Wireless Mouse,24.99,1,24.99,M. Kowalski
+2025-01-28,SOUTH,Laptop Sleeve,19.99,8,159.92,S. Osei
+29/06/2025,NORTH,Monitor Stand,$45.00,8,360.0,S. Osei
+02-13-2025, South ,Wireless Mouse,$24.99,3,74.97,J. Alvarez
+21/01/2025, West ,Webcam HD,$59.99,7,419.93,S. Osei
+28/01/2025,East,Wireless Mouse,24.99,7,174.93,R. Fischer
+04-22-2025,North,Laptop Sleeve,19.99,6,119.94,L. Dubois
+07-22-2025,North,Mechanical Keyboard,89.99,2,179.98,R. Fischer
+2025-08-15, West ,Laptop Sleeve,19.99,4,79.96,M. Kowalski
+10/05/2025,EAST,Wireless Mouse,$24.99,1,24.99,L. Dubois
+06/06/2025, North ,USB-C Hub,34.50,3,103.5,S. Osei
+22/04/2025, South ,Noise Cancelling Headphones,$149.99,6,899.94,S. Osei
+22/04/2025,SOUTH,Noise Cancelling Headphones,149.99,3,449.97,M. Kowalski
+2025-03-28,north,Desk Lamp,29.95,4,119.8,L. Dubois
+2025-01-24,SOUTH,Mechanical Keyboard,$89.99,8,719.92,S. Osei
+14/06/2025,West,USB-C Hub,34.50,1,34.5,
+21/04/2025,NORTH,USB-C Hub,34.50,2,69.0,R. Fischer
+08/08/2025,south,USB-C Hub,$34.50,8,276.0,T. Nguyen
+07/04/2025,NORTH,Ergonomic Chair Cushion,39.99,4,159.96,L. Dubois
+02-25-2025,NORTH,Webcam HD,59.99,6,359.94,J. Alvarez
+2025-01-17,West,Bluetooth Speaker,74.99,8,599.92,T. Nguyen
+01/08/2025,SOUTH,Noise Cancelling Headphones,149.99,5,749.95,R. Fischer
+09/04/2025, East ,Laptop Sleeve,$19.99,3,59.97,T. Nguyen
+2025-05-21,south,Noise Cancelling Headphones,149.99,5,749.95,S. Osei
+02-08-2025, North ,Desk Lamp,29.95,3,89.85,M. Kowalski
+04-04-2025,East,Webcam HD,59.99,7,419.93,M. Kowalski
+11/03/2025,north,Ergonomic Chair Cushion,$39.99,2,79.98,R. Fischer
+2025-01-27, South ,USB-C Hub,34.50,3,103.5,R. Fischer
+2025-07-31,EAST,Monitor Stand,$45.00,5,225.0,L. Dubois
+02-07-2025,SOUTH,Desk Lamp,29.95,2,59.9,T. Nguyen
+2025-01-03,South,Desk Lamp,$29.95,1,29.95,T. Nguyen
+05-18-2025,SOUTH,Desk Lamp,29.95,8,239.6,S. Osei
+2025-07-22,EAST,Desk Lamp,29.95,3,89.85,S. Osei
+21/06/2025,east,Wireless Mouse,24.99,3,74.97,S. Osei
+02/03/2025,East,Desk Lamp,29.95,8,239.6,L. Dubois
+07-15-2025,East,Wireless Mouse,24.99,5,124.95,S. Osei
+02/07/2025,NORTH,Mechanical Keyboard,89.99,8,719.92,T. Nguyen
+13/01/2025,WEST,Noise Cancelling Headphones,$149.99,4,599.96,T. Nguyen
+06/06/2025, West ,Noise Cancelling Headphones,149.99,4,599.96,S. Osei
+01/06/2025, North ,Desk Lamp,$29.95,2,59.9,S. Osei
+01-09-2025,north,Webcam HD,59.99,3,179.97,J. Alvarez
+29/08/2025, East ,Desk Lamp,29.95,4,119.8,S. Osei
+08-08-2025,South,Wireless Mouse,24.99,4,99.96,S. Osei
+08/08/2025,east,Ergonomic Chair Cushion,39.99,5,199.95,M. Kowalski
+06/03/2025, North ,USB-C Hub,34.50,7,241.5,
+2025-04-19,North,Bluetooth Speaker,74.99,6,449.94,J. Alvarez
+03/05/2025,South,USB-C Hub,$34.50,3,103.5,M. Kowalski
+12/04/2025,West,USB-C Hub,34.50,7,241.5,L. Dubois
+06-17-2025, South ,Mechanical Keyboard,89.99,7,629.93,M. Kowalski
+20/01/2025,South,Webcam HD,$59.99,4,239.96,R. Fischer
+04-04-2025, East ,Monitor Stand,$45.00,1,45.0,T. Nguyen
+2025-03-18,north,Wireless Mouse,$24.99,2,49.98,
+08-29-2025, North ,Wireless Mouse,24.99,8,199.92,L. Dubois
+06-03-2025,West,Desk Lamp,$29.95,8,239.6,J. Alvarez
+2025-07-28,south,Monitor Stand,45.00,8,360.0,S. Osei
+04/05/2025, East ,Webcam HD,59.99,7,419.93,T. Nguyen
+04-01-2025, West ,Noise Cancelling Headphones,149.99,7,1049.93,R. Fischer
+2025-04-17,west,USB-C Hub,34.50,1,34.5,R. Fischer
+2025-02-02, South ,Laptop Sleeve,19.99,8,159.92,T. Nguyen
+2025-06-16,South,Desk Lamp,29.95,3,89.85,T. Nguyen
+2025-08-20,South,Desk Lamp,29.95,4,119.8,J. Alvarez
+2025-06-01,east,Bluetooth Speaker,$74.99,8,599.92,T. Nguyen
+08-02-2025,West,Noise Cancelling Headphones,149.99,8,1199.92,L. Dubois
+04-11-2025,East,Desk Lamp,29.95,7,209.65,J. Alvarez
+04-10-2025,North,Laptop Sleeve,19.99,5,99.95,R. Fischer
+10/03/2025,south,Noise Cancelling Headphones,149.99,3,449.97,M. Kowalski
+02/08/2025,NORTH,Mechanical Keyboard,89.99,8,719.92,
+09-10-2025,south,USB-C Hub,34.50,7,241.5,J. Alvarez
+2025-01-09,West,Monitor Stand,45.00,5,225.0,S. Osei
+2025-04-28,West,Ergonomic Chair Cushion,$39.99,7,279.93,T. Nguyen
+21/05/2025,EAST,Desk Lamp,29.95,8,239.6,J. Alvarez
+09-04-2025,SOUTH,Laptop Sleeve,19.99,7,139.93,J. Alvarez
+2025-02-01,South,USB-C Hub,$34.50,5,172.5,L. Dubois
+08-26-2025,SOUTH,Webcam HD,59.99,8,479.92,T. Nguyen
+2025-02-04,south,Webcam HD,$59.99,4,239.96,T. Nguyen
+08-23-2025,West,Laptop Sleeve,19.99,4,79.96,
+06-08-2025,NORTH,Mechanical Keyboard,89.99,2,179.98,S. Osei
+2025-04-18,west,Ergonomic Chair Cushion,$39.99,6,239.94,R. Fischer
+2025-08-08, South ,Mechanical Keyboard,89.99,6,539.94,L. Dubois
+2025-07-07,South,Laptop Sleeve,$19.99,4,79.96,M. Kowalski
+2025-03-05,NORTH,USB-C Hub,34.50,6,207.0,R. Fischer
+09-06-2025, West ,Wireless Mouse,24.99,7,174.93,J. Alvarez
+04-23-2025, East ,Mechanical Keyboard,$89.99,8,719.92,S. Osei
+03-05-2025,East,Laptop Sleeve,19.99,3,59.97,R. Fischer
+2025-04-21,east,Laptop Sleeve,19.99,3,59.97,M. Kowalski
+2025-07-10,EAST,Desk Lamp,29.95,2,59.9,M. Kowalski
+06-24-2025,West,Laptop Sleeve,19.99,3,59.97,M. Kowalski
+13/02/2025,East,Ergonomic Chair Cushion,39.99,7,279.93,J. Alvarez
+2025-01-16,east,USB-C Hub,34.50,8,276.0,T. Nguyen
+01-23-2025, West ,Bluetooth Speaker,$74.99,5,374.95,
+03-29-2025, South ,USB-C Hub,34.50,1,34.5,
+31/03/2025,east,Laptop Sleeve,19.99,8,159.92,J. Alvarez
+2025-05-22,EAST,USB-C Hub,34.50,4,138.0,
+03-09-2025,SOUTH,Monitor Stand,45.00,3,135.0,T. Nguyen
+16/01/2025, East ,Ergonomic Chair Cushion,39.99,8,319.92,L. Dubois
+02-08-2025, West ,Webcam HD,59.99,7,419.93,M. Kowalski
+03-12-2025,WEST,Wireless Mouse,$24.99,5,124.95,L. Dubois
+25/08/2025,south,Webcam HD,59.99,7,419.93,S. Osei
+25/03/2025,East,Mechanical Keyboard,89.99,1,89.99,M. Kowalski
+03/06/2025,South,Webcam HD,59.99,1,59.99,J. Alvarez
+08-17-2025,south,USB-C Hub,34.50,5,172.5,L. Dubois
+2025-02-15,west,Laptop Sleeve,19.99,2,39.98,L. Dubois
+09-11-2025,NORTH,Laptop Sleeve,19.99,1,19.99,
+02-12-2025, East ,Webcam HD,59.99,7,419.93,
+2025-06-01,east,Desk Lamp,$29.95,7,209.65,T. Nguyen
+10/03/2025,SOUTH,Noise Cancelling Headphones,$149.99,7,1049.93,R. Fischer
+2025-01-07,east,Monitor Stand,45.00,6,270.0,S. Osei
+24/09/2025, South ,Desk Lamp,29.95,3,89.85,L. Dubois
+09-10-2025,EAST,Webcam HD,$59.99,7,419.93,T. Nguyen
+2025-03-15,NORTH,Monitor Stand,45.00,8,360.0,R. Fischer
+06/02/2025,North,Ergonomic Chair Cushion,39.99,7,279.93,S. Osei
+04-13-2025, North ,Wireless Mouse,$24.99,3,74.97,S. Osei
+2025-04-25, South ,Mechanical Keyboard,$89.99,1,89.99,M. Kowalski
+07-11-2025,SOUTH,Wireless Mouse,$24.99,1,24.99,J. Alvarez
+2025-01-18, East ,Mechanical Keyboard,89.99,4,359.96,R. Fischer
+08-03-2025,WEST,USB-C Hub,34.50,4,138.0,J. Alvarez
+26/06/2025,east,Desk Lamp,29.95,5,149.75,J. Alvarez
+05-23-2025,East,Laptop Sleeve,19.99,1,19.99,S. Osei
+06-16-2025, South ,Mechanical Keyboard,$89.99,8,719.92,J. Alvarez
+2025-03-06,East,Desk Lamp,29.95,2,59.9,T. Nguyen
+08-14-2025,WEST,Ergonomic Chair Cushion,39.99,1,39.99,S. Osei
+17/06/2025, West ,Monitor Stand,45.00,4,180.0,R. Fischer
+2025-09-13, West ,Monitor Stand,$45.00,2,90.0,J. Alvarez
+19/03/2025,South,Desk Lamp,$29.95,3,89.85,R. Fischer
+03-10-2025,WEST,Laptop Sleeve,19.99,1,19.99,M. Kowalski
+04-15-2025,South,Noise Cancelling Headphones,149.99,6,899.94,T. Nguyen
+04-21-2025, North ,Wireless Mouse,$24.99,1,24.99,R. Fischer
+02-15-2025,East,Bluetooth Speaker,74.99,3,224.97,J. Alvarez
+2025-02-08,South,Monitor Stand,$45.00,3,135.0,T. Nguyen
+08-23-2025,north,Noise Cancelling Headphones,149.99,7,1049.93,J. Alvarez
+03-14-2025,south,Wireless Mouse,$24.99,7,174.93,L. Dubois
+2025-03-19,North,Wireless Mouse,24.99,1,24.99,S. Osei
+2025-05-23, West ,Desk Lamp,29.95,8,239.6,S. Osei
+2025-01-17,NORTH,Monitor Stand,45.00,6,270.0,M. Kowalski
+08-29-2025,NORTH,Noise Cancelling Headphones,149.99,5,749.95,T. Nguyen
+07-07-2025,North,Bluetooth Speaker,74.99,6,449.94,T. Nguyen
+11/01/2025,EAST,Bluetooth Speaker,74.99,8,599.92,R. Fischer
+03-14-2025, East ,Desk Lamp,29.95,3,89.85,T. Nguyen
+14/09/2025,south,Bluetooth Speaker,$74.99,7,524.93,T. Nguyen
+02-18-2025,west,Noise Cancelling Headphones,$149.99,8,1199.92,R. Fischer
+09-14-2025,south,Monitor Stand,45.00,8,360.0,J. Alvarez
+21/07/2025,NORTH,Desk Lamp,29.95,5,149.75,M. Kowalski
+2025-06-11,West,Noise Cancelling Headphones,149.99,8,1199.92,T. Nguyen
+2025-02-17,west,Bluetooth Speaker,74.99,8,599.92,R. Fischer
+03-05-2025, South ,Mechanical Keyboard,$89.99,6,539.94,
+2025-06-24,East,Mechanical Keyboard,$89.99,7,629.93,S. Osei
+07-12-2025,South,Bluetooth Speaker,74.99,6,449.94,J. Alvarez
+2025-09-30,east,Mechanical Keyboard,89.99,2,179.98,R. Fischer
+2025-04-08,south,Desk Lamp,29.95,2,59.9,M. Kowalski
+09-12-2025,North,Desk Lamp,$29.95,4,119.8,T. Nguyen
+16/07/2025,SOUTH,Desk Lamp,29.95,2,59.9,S. Osei
+19/05/2025,NORTH,Laptop Sleeve,19.99,1,19.99,J. Alvarez
+2025-06-25,East,Bluetooth Speaker,74.99,8,599.92,J. Alvarez
+01-04-2025,SOUTH,USB-C Hub,34.50,8,276.0,T. Nguyen
+01/06/2025, West ,Mechanical Keyboard,$89.99,8,719.92,S. Osei
+2025-02-15,SOUTH,Desk Lamp,29.95,4,119.8,M. Kowalski
+2025-06-03,SOUTH,USB-C Hub,34.50,8,276.0,R. Fischer
+01-25-2025, West ,USB-C Hub,34.50,8,276.0,T. Nguyen
+2025-01-23,west,Bluetooth Speaker,$74.99,1,74.99,R. Fischer

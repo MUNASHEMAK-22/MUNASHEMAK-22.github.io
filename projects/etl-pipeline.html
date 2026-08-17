@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Automated ETL Pipeline — Munashe Makuyana</title>
+<link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<nav>
+  <div class="wrap">
+    <div class="logo"><a href="../index.html" style="color:inherit">munashe<span>.data</span></a></div>
+    <ul>
+      <li><a href="../index.html#projects">Projects</a></li>
+      <li><a href="mailto:munashemakuyana22@gmail.com">Contact</a></li>
+    </ul>
+  </div>
+</nav>
+
+<header class="case-hero">
+  <div class="wrap">
+    <div class="eyebrow">Case study 01</div>
+    <h1>Automated ETL Pipeline for Business Reporting</h1>
+    <p class="lede">A messy raw sales export, full of duplicates and inconsistent formatting, turned into a validated SQL database that powers a live Power BI dashboard &mdash; with no manual cleanup.</p>
+
+    <div class="pipeline" aria-hidden="true">
+      <div class="stage raw"><span class="n mono">01</span><span class="t">1,084 raw rows</span></div>
+      <div class="stage clean"><span class="n mono">02</span><span class="t">29 duplicates removed</span></div>
+      <div class="stage load"><span class="n mono">03</span><span class="t">1,055 rows loaded</span></div>
+      <div class="stage viz"><span class="n mono">04</span><span class="t">Live dashboard</span></div>
+    </div>
+
+    <div class="case-meta">
+      <div class="meta-item"><span class="k">Stack</span><span class="v">Python, SQLite, Power BI</span></div>
+      <div class="meta-item"><span class="k">Data source</span><span class="v">Synthetic sales export (CSV)</span></div>
+      <div class="meta-item"><span class="k">Role</span><span class="v">End-to-end build, solo</span></div>
+      <div class="meta-item"><span class="k">Code</span><span class="v"><a href="#">View on GitHub →</a></span></div>
+    </div>
+  </div>
+</header>
+
+<section class="block">
+  <div class="wrap">
+    <h2>The problem</h2>
+    <p>Sales data lands as a raw CSV export from an order system, and it looks exactly like real-world exports do: dates in three different formats, region names inconsistently capitalized, prices sometimes with a currency symbol and sometimes without, missing sales-rep values, and a small percentage of accidentally duplicated rows from the export process itself.</p>
+    <p>None of it is usable for reporting until someone, or something, cleans it. Doing that by hand every reporting cycle doesn't scale and introduces its own errors. The goal was to remove that manual step entirely.</p>
+  </div>
+</section>
+
+<section class="block">
+  <div class="wrap">
+    <h2>What the raw data actually looked like</h2>
+    <p>A representative sample, unedited, straight from the source export:</p>
+    <table>
+      <tr><th>order_date</th><th>region</th><th>product</th><th>unit_price</th><th>qty</th><th>sales_rep</th></tr>
+      <tr><td>04-13-2025</td><td>&nbsp;East&nbsp;</td><td>Noise Cancelling Headphones</td><td>$149.99</td><td>4</td><td>T. Nguyen</td></tr>
+      <tr><td>2025-09-16</td><td>South</td><td>Monitor Stand</td><td>45.00</td><td>3</td><td>M. Kowalski</td></tr>
+      <tr><td>05-16-2025</td><td>EAST</td><td>Wireless Mouse</td><td>24.99</td><td>5</td><td><em>(missing)</em></td></tr>
+    </table>
+    <p>Three date formats in the same column, inconsistent region casing and stray whitespace, a mixed currency format, and blank sales-rep fields &mdash; all in a 1,084-row file. This is what the pipeline had to handle without hardcoding fixes for one file.</p>
+  </div>
+</section>
+
+<section class="block">
+  <div class="wrap">
+    <h2>The pipeline</h2>
+    <p>A single Python script runs the full extract-transform-load process end to end and can be re-run on any new export without modification.</p>
+
+    <h3>1. Extract</h3>
+    <p>Reads the raw CSV into memory as structured rows.</p>
+    <pre><code>def extract(path: Path) -> list[dict]:
+    with open(path, newline="") as f:
+        rows = list(csv.DictReader(f))
+    log.info("Extracted %d raw rows from %s", len(rows), path.name)
+    return rows</code></pre>
+
+    <h3>2. Transform</h3>
+    <p>This is where the real work happens: normalizing three date formats to ISO 8601, stripping currency symbols, standardizing region casing, filling missing sales reps, and deduplicating exact-match rows.</p>
+    <pre><code>def parse_date(raw: str) -> str:
+    for fmt in ["%Y-%m-%d", "%d/%m/%Y", "%m-%d-%Y"]:
+        try:
+            return datetime.strptime(raw.strip(), fmt).strftime("%Y-%m-%d")
+        except ValueError:
+            continue
+    raise ValueError(f"Unrecognized date format: {raw}")
+
+def clean_price(raw: str) -> float:
+    return float(raw.replace("$", "").strip())</code></pre>
+    <p>Every row that fails validation is logged and dropped rather than silently corrupting the dataset &mdash; a pipeline that fails loudly is more trustworthy than one that fails quietly.</p>
+
+    <h3>3. Load</h3>
+    <p>Clean rows are loaded into a SQLite database with an idempotent reload, so re-running the pipeline on a refreshed export never creates duplicate data.</p>
+    <pre><code>cur.execute("DELETE FROM sales")  # idempotent reload
+cur.executemany("""
+    INSERT INTO sales (order_date, region, product, unit_price,
+                        quantity, revenue, sales_rep)
+    VALUES (:order_date, :region, :product, :unit_price,
+            :quantity, :revenue, :sales_rep)
+""", rows)</code></pre>
+
+    <h3>4. Visualize</h3>
+    <p>Power BI connects directly to the SQLite database, so refreshing the dashboard is just re-running one script &mdash; no manual export-clean-import cycle.</p>
+  </div>
+</section>
+
+<section class="block">
+  <div class="wrap">
+    <h2>Results</h2>
+    <div class="stat-grid">
+      <div class="stat"><div class="num">1,084</div><div class="lab">raw rows extracted</div></div>
+      <div class="stat"><div class="num">29</div><div class="lab">duplicate rows caught &amp; removed</div></div>
+      <div class="stat"><div class="num">1,055</div><div class="lab">clean rows loaded to SQL</div></div>
+      <div class="stat"><div class="num">0</div><div class="lab">manual edits required</div></div>
+    </div>
+
+    <div class="callout">
+      <p>Because the pipeline output is already clean, the downstream dashboard could ask harder questions immediately &mdash; for example, it surfaced a genuine 44% revenue drop in the West region between Q2 and Q3, entirely from the pipeline output, with no manual data wrangling in between.</p>
+    </div>
+
+    <p>Run end to end, the pipeline log looks like this:</p>
+    <pre><code>2026-08-17 10:48:10 | INFO | Extracted 1084 raw rows from raw_sales_data.csv
+2026-08-17 10:48:10 | INFO | Transform complete: 1055 clean rows, 29 duplicates removed, 0 invalid rows dropped
+2026-08-17 10:48:10 | INFO | Loaded 1055 rows into sales.db
+2026-08-17 10:48:10 | INFO | Pipeline finished successfully.</code></pre>
+  </div>
+</section>
+
+<section class="block">
+  <div class="wrap">
+    <h2>What I'd build next</h2>
+    <ul>
+      <li>Schedule the script to run automatically (cron or a lightweight cloud function) instead of a manual trigger.</li>
+      <li>Move from SQLite to a cloud-hosted database (e.g. Postgres on Supabase) so the dashboard can refresh from anywhere.</li>
+      <li>Add automated data-quality tests so a malformed future export fails the pipeline with a clear error instead of loading bad data.</li>
+    </ul>
+    <a href="../index.html#projects" class="back-link">← Back to all projects</a>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">Munashe Makuyana &middot; munashemakuyana22@gmail.com &middot; Poland</div>
+</footer>
+
+</body>
+</html>
