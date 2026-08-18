@@ -1,0 +1,118 @@
+{
+  "overall": {
+    "totalRevenue2025": 547452.9,
+    "totalRevenue2024": 539866.31,
+    "profitMargin2025": 55.0,
+    "yoyGrowth": 1.4
+  },
+  "byRegion": {
+    "North": {
+      "revenue": 145257.59,
+      "margin": 55.0,
+      "yoy": 10.7
+    },
+    "South": {
+      "revenue": 136855.32,
+      "margin": 55.0,
+      "yoy": -0.5
+    },
+    "East": {
+      "revenue": 147331.39,
+      "margin": 54.9,
+      "yoy": 7.7
+    },
+    "West": {
+      "revenue": 118008.6,
+      "margin": 55.0,
+      "yoy": -12.2
+    }
+  },
+  "byRegionQuarter": {
+    "North": {
+      "Q1": 29020.05,
+      "Q2": 39546.27,
+      "Q3": 32143.73,
+      "Q4": 44547.54
+    },
+    "South": {
+      "Q1": 29862.0,
+      "Q2": 24943.86,
+      "Q3": 28935.32,
+      "Q4": 53114.14
+    },
+    "East": {
+      "Q1": 34200.54,
+      "Q2": 37973.24,
+      "Q3": 30888.01,
+      "Q4": 44269.6
+    },
+    "West": {
+      "Q1": 29431.59,
+      "Q2": 29928.6,
+      "Q3": 25365.66,
+      "Q4": 33282.75
+    }
+  },
+  "byProduct": [
+    {
+      "product": "Noise Cancelling Headphones",
+      "revenue": 161089.26,
+      "margin": 54.7,
+      "units": 1074
+    },
+    {
+      "product": "Mechanical Keyboard",
+      "revenue": 84320.63,
+      "margin": 52.8,
+      "units": 937
+    },
+    {
+      "product": "Bluetooth Speaker",
+      "revenue": 67940.94,
+      "margin": 55.9,
+      "units": 906
+    },
+    {
+      "product": "Webcam HD",
+      "revenue": 55610.73,
+      "margin": 54.5,
+      "units": 927
+    },
+    {
+      "product": "Monitor Stand",
+      "revenue": 44415.0,
+      "margin": 55.8,
+      "units": 987
+    },
+    {
+      "product": "USB-C Hub",
+      "revenue": 34707.0,
+      "margin": 54.2,
+      "units": 1006
+    },
+    {
+      "product": "Ergonomic Chair Cushion",
+      "revenue": 31952.01,
+      "margin": 57.0,
+      "units": 799
+    },
+    {
+      "product": "Desk Lamp",
+      "revenue": 26685.45,
+      "margin": 55.3,
+      "units": 891
+    },
+    {
+      "product": "Wireless Mouse",
+      "revenue": 22540.98,
+      "margin": 55.2,
+      "units": 902
+    },
+    {
+      "product": "Laptop Sleeve",
+      "revenue": 18190.9,
+      "margin": 62.0,
+      "units": 910
+    }
+  ]
+}
