@@ -1,0 +1,3265 @@
+{
+  "summary": {
+    "totalReadings": 12960,
+    "totalMachines": 6,
+    "totalAnomaliesFlagged": 423,
+    "machinesWithFailure": [
+      "M-103",
+      "M-106"
+    ]
+  },
+  "series": {
+    "M-101": [
+      {
+        "date": "2025-04-01",
+        "avgTemp": 55.1,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-02",
+        "avgTemp": 55.4,
+        "avgVibration": 2.25,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-03",
+        "avgTemp": 55.0,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-04",
+        "avgTemp": 55.0,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-05",
+        "avgTemp": 54.8,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-06",
+        "avgTemp": 55.3,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-07",
+        "avgTemp": 54.7,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-08",
+        "avgTemp": 54.9,
+        "avgVibration": 2.25,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-09",
+        "avgTemp": 54.8,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-10",
+        "avgTemp": 55.0,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-11",
+        "avgTemp": 54.8,
+        "avgVibration": 2.25,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-12",
+        "avgTemp": 55.2,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-13",
+        "avgTemp": 54.9,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-14",
+        "avgTemp": 54.7,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-15",
+        "avgTemp": 55.1,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-16",
+        "avgTemp": 55.0,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-17",
+        "avgTemp": 55.2,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-18",
+        "avgTemp": 55.5,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-19",
+        "avgTemp": 54.9,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-20",
+        "avgTemp": 55.3,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-21",
+        "avgTemp": 54.8,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-22",
+        "avgTemp": 55.0,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-23",
+        "avgTemp": 55.1,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-24",
+        "avgTemp": 55.1,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-25",
+        "avgTemp": 55.1,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-26",
+        "avgTemp": 55.2,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-27",
+        "avgTemp": 55.3,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-28",
+        "avgTemp": 55.1,
+        "avgVibration": 2.14,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-29",
+        "avgTemp": 55.0,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-30",
+        "avgTemp": 54.9,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-01",
+        "avgTemp": 54.7,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-02",
+        "avgTemp": 55.0,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-03",
+        "avgTemp": 55.0,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-04",
+        "avgTemp": 54.7,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-05",
+        "avgTemp": 54.9,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-06",
+        "avgTemp": 55.0,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-07",
+        "avgTemp": 55.2,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-08",
+        "avgTemp": 55.2,
+        "avgVibration": 2.26,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-09",
+        "avgTemp": 55.0,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-10",
+        "avgTemp": 55.2,
+        "avgVibration": 2.14,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-11",
+        "avgTemp": 55.0,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-12",
+        "avgTemp": 55.2,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-13",
+        "avgTemp": 54.8,
+        "avgVibration": 2.16,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-14",
+        "avgTemp": 54.8,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-15",
+        "avgTemp": 55.4,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-16",
+        "avgTemp": 55.0,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-17",
+        "avgTemp": 55.0,
+        "avgVibration": 2.25,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-18",
+        "avgTemp": 54.7,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-19",
+        "avgTemp": 55.0,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-20",
+        "avgTemp": 55.2,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-21",
+        "avgTemp": 54.8,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-22",
+        "avgTemp": 55.2,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-23",
+        "avgTemp": 55.4,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-24",
+        "avgTemp": 54.7,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-25",
+        "avgTemp": 54.6,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-26",
+        "avgTemp": 54.9,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-27",
+        "avgTemp": 55.1,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-28",
+        "avgTemp": 55.0,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-29",
+        "avgTemp": 54.9,
+        "avgVibration": 2.13,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-30",
+        "avgTemp": 55.0,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-31",
+        "avgTemp": 55.1,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-01",
+        "avgTemp": 55.1,
+        "avgVibration": 2.12,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-02",
+        "avgTemp": 55.1,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-03",
+        "avgTemp": 54.8,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-04",
+        "avgTemp": 55.2,
+        "avgVibration": 2.25,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-05",
+        "avgTemp": 55.3,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-06",
+        "avgTemp": 54.7,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-07",
+        "avgTemp": 54.9,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-08",
+        "avgTemp": 55.6,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-09",
+        "avgTemp": 55.0,
+        "avgVibration": 2.25,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-10",
+        "avgTemp": 54.6,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-11",
+        "avgTemp": 55.1,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-12",
+        "avgTemp": 55.1,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-13",
+        "avgTemp": 55.0,
+        "avgVibration": 2.16,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-14",
+        "avgTemp": 54.3,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-15",
+        "avgTemp": 54.9,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-16",
+        "avgTemp": 55.5,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-17",
+        "avgTemp": 54.7,
+        "avgVibration": 2.16,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-18",
+        "avgTemp": 54.8,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-19",
+        "avgTemp": 54.9,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-20",
+        "avgTemp": 54.9,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-21",
+        "avgTemp": 55.0,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-22",
+        "avgTemp": 54.8,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-23",
+        "avgTemp": 55.0,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-24",
+        "avgTemp": 55.4,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-25",
+        "avgTemp": 55.0,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-26",
+        "avgTemp": 54.6,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-27",
+        "avgTemp": 55.0,
+        "avgVibration": 2.25,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-28",
+        "avgTemp": 55.2,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-29",
+        "avgTemp": 54.8,
+        "avgVibration": 2.18,
+        "status": "normal"
+      }
+    ],
+    "M-102": [
+      {
+        "date": "2025-04-01",
+        "avgTemp": 55.2,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-02",
+        "avgTemp": 54.9,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-03",
+        "avgTemp": 55.3,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-04",
+        "avgTemp": 54.8,
+        "avgVibration": 2.15,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-05",
+        "avgTemp": 54.9,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-06",
+        "avgTemp": 54.9,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-07",
+        "avgTemp": 54.8,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-08",
+        "avgTemp": 55.4,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-09",
+        "avgTemp": 55.3,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-10",
+        "avgTemp": 55.4,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-11",
+        "avgTemp": 55.1,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-12",
+        "avgTemp": 55.0,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-13",
+        "avgTemp": 55.0,
+        "avgVibration": 2.16,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-14",
+        "avgTemp": 54.7,
+        "avgVibration": 2.15,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-15",
+        "avgTemp": 54.9,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-16",
+        "avgTemp": 55.1,
+        "avgVibration": 2.25,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-17",
+        "avgTemp": 54.6,
+        "avgVibration": 2.14,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-18",
+        "avgTemp": 55.0,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-19",
+        "avgTemp": 55.0,
+        "avgVibration": 2.27,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-20",
+        "avgTemp": 55.1,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-21",
+        "avgTemp": 55.2,
+        "avgVibration": 2.16,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-22",
+        "avgTemp": 55.3,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-23",
+        "avgTemp": 54.8,
+        "avgVibration": 2.25,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-24",
+        "avgTemp": 55.2,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-25",
+        "avgTemp": 54.8,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-26",
+        "avgTemp": 55.2,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-27",
+        "avgTemp": 55.2,
+        "avgVibration": 2.1,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-28",
+        "avgTemp": 54.9,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-29",
+        "avgTemp": 55.1,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-30",
+        "avgTemp": 55.1,
+        "avgVibration": 2.15,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-01",
+        "avgTemp": 55.0,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-02",
+        "avgTemp": 55.1,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-03",
+        "avgTemp": 55.2,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-04",
+        "avgTemp": 55.4,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-05",
+        "avgTemp": 55.1,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-06",
+        "avgTemp": 54.9,
+        "avgVibration": 2.25,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-07",
+        "avgTemp": 55.2,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-08",
+        "avgTemp": 54.9,
+        "avgVibration": 2.11,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-09",
+        "avgTemp": 54.9,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-10",
+        "avgTemp": 54.9,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-11",
+        "avgTemp": 55.1,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-12",
+        "avgTemp": 55.2,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-13",
+        "avgTemp": 55.2,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-14",
+        "avgTemp": 55.3,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-15",
+        "avgTemp": 54.8,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-16",
+        "avgTemp": 54.7,
+        "avgVibration": 2.28,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-17",
+        "avgTemp": 55.2,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-18",
+        "avgTemp": 54.7,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-19",
+        "avgTemp": 54.7,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-20",
+        "avgTemp": 55.2,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-21",
+        "avgTemp": 55.5,
+        "avgVibration": 2.14,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-22",
+        "avgTemp": 55.2,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-23",
+        "avgTemp": 54.8,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-24",
+        "avgTemp": 55.0,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-25",
+        "avgTemp": 55.3,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-26",
+        "avgTemp": 55.2,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-27",
+        "avgTemp": 55.1,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-28",
+        "avgTemp": 55.2,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-29",
+        "avgTemp": 54.7,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-30",
+        "avgTemp": 54.7,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-31",
+        "avgTemp": 54.9,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-01",
+        "avgTemp": 55.2,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-02",
+        "avgTemp": 55.0,
+        "avgVibration": 2.16,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-03",
+        "avgTemp": 54.6,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-04",
+        "avgTemp": 54.8,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-05",
+        "avgTemp": 55.1,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-06",
+        "avgTemp": 55.1,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-07",
+        "avgTemp": 54.6,
+        "avgVibration": 2.15,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-08",
+        "avgTemp": 54.9,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-09",
+        "avgTemp": 55.4,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-10",
+        "avgTemp": 55.3,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-11",
+        "avgTemp": 54.8,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-12",
+        "avgTemp": 54.9,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-13",
+        "avgTemp": 55.0,
+        "avgVibration": 2.27,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-14",
+        "avgTemp": 55.0,
+        "avgVibration": 2.14,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-15",
+        "avgTemp": 55.2,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-16",
+        "avgTemp": 55.3,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-17",
+        "avgTemp": 54.4,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-18",
+        "avgTemp": 54.8,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-19",
+        "avgTemp": 55.0,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-20",
+        "avgTemp": 54.8,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-21",
+        "avgTemp": 55.0,
+        "avgVibration": 2.25,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-22",
+        "avgTemp": 54.8,
+        "avgVibration": 2.28,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-23",
+        "avgTemp": 55.1,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-24",
+        "avgTemp": 55.5,
+        "avgVibration": 2.15,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-25",
+        "avgTemp": 54.9,
+        "avgVibration": 2.27,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-26",
+        "avgTemp": 55.0,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-27",
+        "avgTemp": 55.2,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-28",
+        "avgTemp": 55.3,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-29",
+        "avgTemp": 54.8,
+        "avgVibration": 2.15,
+        "status": "normal"
+      }
+    ],
+    "M-103": [
+      {
+        "date": "2025-04-01",
+        "avgTemp": 55.4,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-02",
+        "avgTemp": 55.0,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-03",
+        "avgTemp": 55.3,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-04",
+        "avgTemp": 54.7,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-05",
+        "avgTemp": 55.1,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-06",
+        "avgTemp": 54.9,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-07",
+        "avgTemp": 55.0,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-08",
+        "avgTemp": 55.4,
+        "avgVibration": 2.25,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-09",
+        "avgTemp": 55.2,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-10",
+        "avgTemp": 55.3,
+        "avgVibration": 2.25,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-11",
+        "avgTemp": 55.2,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-12",
+        "avgTemp": 54.7,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-13",
+        "avgTemp": 54.8,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-14",
+        "avgTemp": 55.6,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-15",
+        "avgTemp": 54.9,
+        "avgVibration": 2.16,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-16",
+        "avgTemp": 54.8,
+        "avgVibration": 2.26,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-17",
+        "avgTemp": 55.5,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-18",
+        "avgTemp": 55.0,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-19",
+        "avgTemp": 55.2,
+        "avgVibration": 2.25,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-20",
+        "avgTemp": 54.6,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-21",
+        "avgTemp": 55.4,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-22",
+        "avgTemp": 55.1,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-23",
+        "avgTemp": 55.6,
+        "avgVibration": 2.15,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-24",
+        "avgTemp": 55.1,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-25",
+        "avgTemp": 54.8,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-26",
+        "avgTemp": 54.8,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-27",
+        "avgTemp": 55.0,
+        "avgVibration": 2.13,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-28",
+        "avgTemp": 54.6,
+        "avgVibration": 2.28,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-29",
+        "avgTemp": 54.9,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-30",
+        "avgTemp": 55.2,
+        "avgVibration": 2.26,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-01",
+        "avgTemp": 55.2,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-02",
+        "avgTemp": 55.0,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-03",
+        "avgTemp": 55.2,
+        "avgVibration": 2.16,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-04",
+        "avgTemp": 55.1,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-05",
+        "avgTemp": 55.0,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-06",
+        "avgTemp": 54.9,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-07",
+        "avgTemp": 55.2,
+        "avgVibration": 2.25,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-08",
+        "avgTemp": 54.9,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-09",
+        "avgTemp": 55.2,
+        "avgVibration": 2.16,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-10",
+        "avgTemp": 55.0,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-11",
+        "avgTemp": 54.5,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-12",
+        "avgTemp": 55.4,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-13",
+        "avgTemp": 55.1,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-14",
+        "avgTemp": 55.0,
+        "avgVibration": 2.15,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-15",
+        "avgTemp": 55.2,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-16",
+        "avgTemp": 55.2,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-17",
+        "avgTemp": 54.9,
+        "avgVibration": 2.14,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-18",
+        "avgTemp": 55.0,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-19",
+        "avgTemp": 55.4,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-20",
+        "avgTemp": 54.9,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-21",
+        "avgTemp": 54.7,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-22",
+        "avgTemp": 54.7,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-23",
+        "avgTemp": 55.3,
+        "avgVibration": 2.24,
+        "status": "warning"
+      },
+      {
+        "date": "2025-05-24",
+        "avgTemp": 56.3,
+        "avgVibration": 2.52,
+        "status": "warning"
+      },
+      {
+        "date": "2025-05-25",
+        "avgTemp": 57.9,
+        "avgVibration": 2.85,
+        "status": "warning"
+      },
+      {
+        "date": "2025-05-26",
+        "avgTemp": 58.9,
+        "avgVibration": 3.14,
+        "status": "warning"
+      },
+      {
+        "date": "2025-05-27",
+        "avgTemp": 60.4,
+        "avgVibration": 3.41,
+        "status": "warning"
+      },
+      {
+        "date": "2025-05-28",
+        "avgTemp": 62.0,
+        "avgVibration": 3.75,
+        "status": "warning"
+      },
+      {
+        "date": "2025-05-29",
+        "avgTemp": 64.1,
+        "avgVibration": 4.04,
+        "status": "warning"
+      },
+      {
+        "date": "2025-05-30",
+        "avgTemp": 64.5,
+        "avgVibration": 4.41,
+        "status": "critical"
+      },
+      {
+        "date": "2025-05-31",
+        "avgTemp": 66.3,
+        "avgVibration": 4.72,
+        "status": "critical"
+      },
+      {
+        "date": "2025-06-01",
+        "avgTemp": 67.7,
+        "avgVibration": 4.94,
+        "status": "critical"
+      },
+      {
+        "date": "2025-06-02",
+        "avgTemp": 68.8,
+        "avgVibration": 5.31,
+        "status": "failure"
+      },
+      {
+        "date": "2025-06-03",
+        "avgTemp": 55.0,
+        "avgVibration": 2.15,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-04",
+        "avgTemp": 54.9,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-05",
+        "avgTemp": 54.9,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-06",
+        "avgTemp": 55.0,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-07",
+        "avgTemp": 54.3,
+        "avgVibration": 2.28,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-08",
+        "avgTemp": 55.2,
+        "avgVibration": 2.16,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-09",
+        "avgTemp": 54.9,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-10",
+        "avgTemp": 55.2,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-11",
+        "avgTemp": 54.8,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-12",
+        "avgTemp": 55.1,
+        "avgVibration": 2.28,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-13",
+        "avgTemp": 54.8,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-14",
+        "avgTemp": 55.0,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-15",
+        "avgTemp": 54.8,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-16",
+        "avgTemp": 54.8,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-17",
+        "avgTemp": 55.1,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-18",
+        "avgTemp": 54.9,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-19",
+        "avgTemp": 55.2,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-20",
+        "avgTemp": 54.8,
+        "avgVibration": 2.16,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-21",
+        "avgTemp": 55.0,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-22",
+        "avgTemp": 55.0,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-23",
+        "avgTemp": 55.2,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-24",
+        "avgTemp": 54.9,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-25",
+        "avgTemp": 55.1,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-26",
+        "avgTemp": 55.2,
+        "avgVibration": 2.15,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-27",
+        "avgTemp": 55.4,
+        "avgVibration": 2.27,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-28",
+        "avgTemp": 55.0,
+        "avgVibration": 2.15,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-29",
+        "avgTemp": 55.2,
+        "avgVibration": 2.16,
+        "status": "normal"
+      }
+    ],
+    "M-104": [
+      {
+        "date": "2025-04-01",
+        "avgTemp": 54.9,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-02",
+        "avgTemp": 54.6,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-03",
+        "avgTemp": 54.6,
+        "avgVibration": 2.26,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-04",
+        "avgTemp": 54.8,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-05",
+        "avgTemp": 55.0,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-06",
+        "avgTemp": 54.8,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-07",
+        "avgTemp": 55.0,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-08",
+        "avgTemp": 55.0,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-09",
+        "avgTemp": 55.0,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-10",
+        "avgTemp": 55.2,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-11",
+        "avgTemp": 54.8,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-12",
+        "avgTemp": 54.7,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-13",
+        "avgTemp": 55.5,
+        "avgVibration": 2.15,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-14",
+        "avgTemp": 54.9,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-15",
+        "avgTemp": 54.8,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-16",
+        "avgTemp": 55.1,
+        "avgVibration": 2.25,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-17",
+        "avgTemp": 55.1,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-18",
+        "avgTemp": 55.4,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-19",
+        "avgTemp": 55.3,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-20",
+        "avgTemp": 54.7,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-21",
+        "avgTemp": 55.0,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-22",
+        "avgTemp": 54.9,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-23",
+        "avgTemp": 55.1,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-24",
+        "avgTemp": 54.7,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-25",
+        "avgTemp": 54.5,
+        "avgVibration": 2.26,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-26",
+        "avgTemp": 55.3,
+        "avgVibration": 2.25,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-27",
+        "avgTemp": 54.4,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-28",
+        "avgTemp": 55.1,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-29",
+        "avgTemp": 54.9,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-30",
+        "avgTemp": 55.3,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-01",
+        "avgTemp": 54.6,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-02",
+        "avgTemp": 55.0,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-03",
+        "avgTemp": 55.3,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-04",
+        "avgTemp": 55.0,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-05",
+        "avgTemp": 54.9,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-06",
+        "avgTemp": 54.7,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-07",
+        "avgTemp": 55.2,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-08",
+        "avgTemp": 55.1,
+        "avgVibration": 2.15,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-09",
+        "avgTemp": 55.0,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-10",
+        "avgTemp": 55.0,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-11",
+        "avgTemp": 55.0,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-12",
+        "avgTemp": 55.2,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-13",
+        "avgTemp": 55.2,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-14",
+        "avgTemp": 54.8,
+        "avgVibration": 2.25,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-15",
+        "avgTemp": 55.2,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-16",
+        "avgTemp": 55.3,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-17",
+        "avgTemp": 54.9,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-18",
+        "avgTemp": 55.5,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-19",
+        "avgTemp": 55.1,
+        "avgVibration": 2.26,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-20",
+        "avgTemp": 54.8,
+        "avgVibration": 2.12,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-21",
+        "avgTemp": 55.1,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-22",
+        "avgTemp": 55.2,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-23",
+        "avgTemp": 55.0,
+        "avgVibration": 2.13,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-24",
+        "avgTemp": 54.8,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-25",
+        "avgTemp": 55.0,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-26",
+        "avgTemp": 55.0,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-27",
+        "avgTemp": 55.3,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-28",
+        "avgTemp": 55.2,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-29",
+        "avgTemp": 54.9,
+        "avgVibration": 2.27,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-30",
+        "avgTemp": 55.3,
+        "avgVibration": 2.14,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-31",
+        "avgTemp": 54.8,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-01",
+        "avgTemp": 54.6,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-02",
+        "avgTemp": 55.1,
+        "avgVibration": 2.16,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-03",
+        "avgTemp": 54.8,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-04",
+        "avgTemp": 55.1,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-05",
+        "avgTemp": 54.8,
+        "avgVibration": 2.28,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-06",
+        "avgTemp": 55.1,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-07",
+        "avgTemp": 54.9,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-08",
+        "avgTemp": 54.8,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-09",
+        "avgTemp": 55.0,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-10",
+        "avgTemp": 55.2,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-11",
+        "avgTemp": 54.8,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-12",
+        "avgTemp": 54.5,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-13",
+        "avgTemp": 54.7,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-14",
+        "avgTemp": 55.0,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-15",
+        "avgTemp": 55.2,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-16",
+        "avgTemp": 55.2,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-17",
+        "avgTemp": 54.9,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-18",
+        "avgTemp": 55.5,
+        "avgVibration": 2.15,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-19",
+        "avgTemp": 55.3,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-20",
+        "avgTemp": 55.2,
+        "avgVibration": 2.14,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-21",
+        "avgTemp": 54.8,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-22",
+        "avgTemp": 55.3,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-23",
+        "avgTemp": 55.1,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-24",
+        "avgTemp": 55.0,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-25",
+        "avgTemp": 54.9,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-26",
+        "avgTemp": 55.0,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-27",
+        "avgTemp": 54.8,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-28",
+        "avgTemp": 54.7,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-29",
+        "avgTemp": 55.5,
+        "avgVibration": 2.17,
+        "status": "normal"
+      }
+    ],
+    "M-105": [
+      {
+        "date": "2025-04-01",
+        "avgTemp": 55.2,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-02",
+        "avgTemp": 54.5,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-03",
+        "avgTemp": 55.2,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-04",
+        "avgTemp": 55.2,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-05",
+        "avgTemp": 55.0,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-06",
+        "avgTemp": 55.0,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-07",
+        "avgTemp": 55.0,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-08",
+        "avgTemp": 55.1,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-09",
+        "avgTemp": 55.0,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-10",
+        "avgTemp": 55.2,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-11",
+        "avgTemp": 55.0,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-12",
+        "avgTemp": 54.8,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-13",
+        "avgTemp": 54.9,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-14",
+        "avgTemp": 54.8,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-15",
+        "avgTemp": 55.3,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-16",
+        "avgTemp": 55.1,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-17",
+        "avgTemp": 55.2,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-18",
+        "avgTemp": 55.0,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-19",
+        "avgTemp": 54.9,
+        "avgVibration": 2.15,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-20",
+        "avgTemp": 54.7,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-21",
+        "avgTemp": 55.2,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-22",
+        "avgTemp": 54.8,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-23",
+        "avgTemp": 55.0,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-24",
+        "avgTemp": 55.1,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-25",
+        "avgTemp": 55.1,
+        "avgVibration": 2.26,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-26",
+        "avgTemp": 55.0,
+        "avgVibration": 2.26,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-27",
+        "avgTemp": 55.0,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-28",
+        "avgTemp": 55.2,
+        "avgVibration": 2.25,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-29",
+        "avgTemp": 55.0,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-30",
+        "avgTemp": 55.0,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-01",
+        "avgTemp": 54.8,
+        "avgVibration": 2.26,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-02",
+        "avgTemp": 55.2,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-03",
+        "avgTemp": 54.8,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-04",
+        "avgTemp": 55.1,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-05",
+        "avgTemp": 54.8,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-06",
+        "avgTemp": 54.9,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-07",
+        "avgTemp": 55.3,
+        "avgVibration": 2.16,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-08",
+        "avgTemp": 54.8,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-09",
+        "avgTemp": 55.2,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-10",
+        "avgTemp": 55.1,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-11",
+        "avgTemp": 55.3,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-12",
+        "avgTemp": 54.7,
+        "avgVibration": 2.15,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-13",
+        "avgTemp": 55.1,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-14",
+        "avgTemp": 54.9,
+        "avgVibration": 2.25,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-15",
+        "avgTemp": 54.9,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-16",
+        "avgTemp": 54.8,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-17",
+        "avgTemp": 55.2,
+        "avgVibration": 2.25,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-18",
+        "avgTemp": 55.0,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-19",
+        "avgTemp": 54.6,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-20",
+        "avgTemp": 54.8,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-21",
+        "avgTemp": 55.1,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-22",
+        "avgTemp": 55.1,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-23",
+        "avgTemp": 54.8,
+        "avgVibration": 2.16,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-24",
+        "avgTemp": 54.7,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-25",
+        "avgTemp": 55.0,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-26",
+        "avgTemp": 54.9,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-27",
+        "avgTemp": 55.2,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-28",
+        "avgTemp": 55.0,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-29",
+        "avgTemp": 55.0,
+        "avgVibration": 2.25,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-30",
+        "avgTemp": 55.0,
+        "avgVibration": 2.26,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-31",
+        "avgTemp": 55.0,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-01",
+        "avgTemp": 54.9,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-02",
+        "avgTemp": 54.9,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-03",
+        "avgTemp": 55.0,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-04",
+        "avgTemp": 55.3,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-05",
+        "avgTemp": 54.8,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-06",
+        "avgTemp": 54.7,
+        "avgVibration": 2.16,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-07",
+        "avgTemp": 55.2,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-08",
+        "avgTemp": 55.1,
+        "avgVibration": 2.15,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-09",
+        "avgTemp": 54.7,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-10",
+        "avgTemp": 54.4,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-11",
+        "avgTemp": 55.0,
+        "avgVibration": 2.26,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-12",
+        "avgTemp": 55.3,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-13",
+        "avgTemp": 55.5,
+        "avgVibration": 2.16,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-14",
+        "avgTemp": 54.7,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-15",
+        "avgTemp": 54.7,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-16",
+        "avgTemp": 54.8,
+        "avgVibration": 2.15,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-17",
+        "avgTemp": 55.3,
+        "avgVibration": 2.16,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-18",
+        "avgTemp": 55.6,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-19",
+        "avgTemp": 55.2,
+        "avgVibration": 2.14,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-20",
+        "avgTemp": 55.6,
+        "avgVibration": 2.16,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-21",
+        "avgTemp": 54.8,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-22",
+        "avgTemp": 55.7,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-23",
+        "avgTemp": 55.1,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-24",
+        "avgTemp": 54.8,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-25",
+        "avgTemp": 55.3,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-26",
+        "avgTemp": 55.4,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-27",
+        "avgTemp": 55.0,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-28",
+        "avgTemp": 54.6,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-29",
+        "avgTemp": 55.4,
+        "avgVibration": 2.16,
+        "status": "normal"
+      }
+    ],
+    "M-106": [
+      {
+        "date": "2025-04-01",
+        "avgTemp": 55.0,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-02",
+        "avgTemp": 55.3,
+        "avgVibration": 2.13,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-03",
+        "avgTemp": 55.1,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-04",
+        "avgTemp": 55.1,
+        "avgVibration": 2.25,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-05",
+        "avgTemp": 55.1,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-06",
+        "avgTemp": 55.0,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-07",
+        "avgTemp": 54.9,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-08",
+        "avgTemp": 55.1,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-09",
+        "avgTemp": 54.6,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-10",
+        "avgTemp": 55.3,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-11",
+        "avgTemp": 55.1,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-12",
+        "avgTemp": 55.4,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-13",
+        "avgTemp": 54.7,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-14",
+        "avgTemp": 54.8,
+        "avgVibration": 2.31,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-15",
+        "avgTemp": 55.2,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-16",
+        "avgTemp": 54.8,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-17",
+        "avgTemp": 55.4,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-18",
+        "avgTemp": 55.0,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-19",
+        "avgTemp": 55.3,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-20",
+        "avgTemp": 55.3,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-21",
+        "avgTemp": 55.2,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-22",
+        "avgTemp": 55.1,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-23",
+        "avgTemp": 55.4,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-24",
+        "avgTemp": 54.6,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-25",
+        "avgTemp": 54.8,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-26",
+        "avgTemp": 55.1,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-27",
+        "avgTemp": 55.0,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-28",
+        "avgTemp": 55.0,
+        "avgVibration": 2.26,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-29",
+        "avgTemp": 55.0,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-04-30",
+        "avgTemp": 54.9,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-01",
+        "avgTemp": 54.6,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-02",
+        "avgTemp": 55.4,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-03",
+        "avgTemp": 54.8,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-04",
+        "avgTemp": 55.0,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-05",
+        "avgTemp": 54.9,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-06",
+        "avgTemp": 54.7,
+        "avgVibration": 2.15,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-07",
+        "avgTemp": 54.7,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-08",
+        "avgTemp": 55.0,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-09",
+        "avgTemp": 54.9,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-10",
+        "avgTemp": 55.0,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-11",
+        "avgTemp": 55.0,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-12",
+        "avgTemp": 54.7,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-13",
+        "avgTemp": 55.4,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-14",
+        "avgTemp": 55.3,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-15",
+        "avgTemp": 54.7,
+        "avgVibration": 2.16,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-16",
+        "avgTemp": 55.0,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-17",
+        "avgTemp": 55.3,
+        "avgVibration": 2.15,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-18",
+        "avgTemp": 54.9,
+        "avgVibration": 2.17,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-19",
+        "avgTemp": 55.2,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-20",
+        "avgTemp": 55.0,
+        "avgVibration": 2.26,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-21",
+        "avgTemp": 54.8,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-22",
+        "avgTemp": 54.4,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-23",
+        "avgTemp": 54.9,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-24",
+        "avgTemp": 55.1,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-25",
+        "avgTemp": 55.0,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-26",
+        "avgTemp": 54.7,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-27",
+        "avgTemp": 55.0,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-28",
+        "avgTemp": 55.2,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-29",
+        "avgTemp": 55.1,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-30",
+        "avgTemp": 55.0,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-05-31",
+        "avgTemp": 55.3,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-01",
+        "avgTemp": 55.1,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-02",
+        "avgTemp": 55.3,
+        "avgVibration": 2.14,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-03",
+        "avgTemp": 55.0,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-04",
+        "avgTemp": 55.2,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-05",
+        "avgTemp": 55.0,
+        "avgVibration": 2.24,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-06",
+        "avgTemp": 55.1,
+        "avgVibration": 2.15,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-07",
+        "avgTemp": 54.9,
+        "avgVibration": 2.15,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-08",
+        "avgTemp": 55.2,
+        "avgVibration": 2.25,
+        "status": "warning"
+      },
+      {
+        "date": "2025-06-09",
+        "avgTemp": 56.2,
+        "avgVibration": 2.47,
+        "status": "warning"
+      },
+      {
+        "date": "2025-06-10",
+        "avgTemp": 58.0,
+        "avgVibration": 2.74,
+        "status": "warning"
+      },
+      {
+        "date": "2025-06-11",
+        "avgTemp": 59.1,
+        "avgVibration": 3.11,
+        "status": "warning"
+      },
+      {
+        "date": "2025-06-12",
+        "avgTemp": 60.8,
+        "avgVibration": 3.4,
+        "status": "warning"
+      },
+      {
+        "date": "2025-06-13",
+        "avgTemp": 61.8,
+        "avgVibration": 3.76,
+        "status": "warning"
+      },
+      {
+        "date": "2025-06-14",
+        "avgTemp": 63.6,
+        "avgVibration": 4.07,
+        "status": "warning"
+      },
+      {
+        "date": "2025-06-15",
+        "avgTemp": 64.5,
+        "avgVibration": 4.39,
+        "status": "critical"
+      },
+      {
+        "date": "2025-06-16",
+        "avgTemp": 65.8,
+        "avgVibration": 4.67,
+        "status": "critical"
+      },
+      {
+        "date": "2025-06-17",
+        "avgTemp": 67.4,
+        "avgVibration": 5.01,
+        "status": "critical"
+      },
+      {
+        "date": "2025-06-18",
+        "avgTemp": 69.4,
+        "avgVibration": 5.27,
+        "status": "failure"
+      },
+      {
+        "date": "2025-06-19",
+        "avgTemp": 55.0,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-20",
+        "avgTemp": 54.9,
+        "avgVibration": 2.21,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-21",
+        "avgTemp": 54.6,
+        "avgVibration": 2.22,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-22",
+        "avgTemp": 55.0,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-23",
+        "avgTemp": 54.9,
+        "avgVibration": 2.18,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-24",
+        "avgTemp": 55.1,
+        "avgVibration": 2.23,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-25",
+        "avgTemp": 55.0,
+        "avgVibration": 2.19,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-26",
+        "avgTemp": 55.4,
+        "avgVibration": 2.16,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-27",
+        "avgTemp": 54.7,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-28",
+        "avgTemp": 55.2,
+        "avgVibration": 2.2,
+        "status": "normal"
+      },
+      {
+        "date": "2025-06-29",
+        "avgTemp": 55.1,
+        "avgVibration": 2.2,
+        "status": "normal"
+      }
+    ]
+  }
+}
