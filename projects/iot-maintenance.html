@@ -4,6 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>IoT Equipment Performance & Predictive Maintenance — Munashe Makuyana</title>
+<link rel="icon" type="image/svg+xml" href="../assets/images/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicon-32.png">
+<link rel="apple-touch-icon" href="../assets/images/apple-touch-icon.png">
 <link rel="stylesheet" href="../css/style.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script>
 <style>
@@ -53,9 +56,9 @@
 
     <div class="case-meta">
       <div class="meta-item"><span class="k">Stack</span><span class="v">Python, Pandas, Power BI</span></div>
-      <div class="meta-item"><span class="k">Data source</span><span class="v">Synthetic sensor export (90 days, hourly)</span></div>
+      <div class="meta-item"><span class="k">Data source</span><span class="v">Synthetic sensor export — 12,960 readings</span></div>
       <div class="meta-item"><span class="k">Readings analyzed</span><span class="v">12,960</span></div>
-      <div class="meta-item"><span class="k">Code</span><span class="v"><a href="#">View on GitHub →</a></span></div>
+      <div class="meta-item"><span class="k">Code</span><span class="v"><a href="https://github.com/MUNASHEMAK-22/MUNASHEMAK-22.github.io/tree/main/projects/iot-maintenance" target="_blank" rel="noopener">View on GitHub →</a></span></div>
     </div>
   </div>
 </header>
@@ -63,7 +66,7 @@
 <section class="block">
   <div class="wrap">
     <h2>Live equipment monitor</h2>
-    <p>Select a machine to see its temperature and vibration trend. Two of the six machines carry a genuine failure precursor pattern in the data &mdash; the model catches both, with zero false alarms on the other four.</p>
+    <p>Select a machine to see its temperature and vibration trend. Two of the six machines carry a failure precursor pattern in the underlying data &mdash; the model catches both, with zero false alarms on the other four.</p>
 
     <div class="filters" id="filters"></div>
 
@@ -90,7 +93,7 @@
 vibr_z = (reading.vibration - baseline_mean) / baseline_stddev
 
 is_anomaly = temp_z > 2.5 or vibr_z > 2.5</code></pre>
-    <p>A single noisy reading isn't enough to trigger an alert &mdash; that would flood the dashboard with false positives from ordinary sensor noise. The alert only fires once <strong>3 consecutive hourly readings</strong> exceed the threshold, which is what separates a genuine drift pattern from a one-off spike:</p>
+    <p>A single noisy reading isn't enough to trigger an alert &mdash; that would flood the dashboard with false positives from ordinary sensor noise. The alert only fires once <strong>3 consecutive hourly readings</strong> exceed the threshold, which is what separates a sustained drift pattern from a one-off spike:</p>
     <pre><code>if is_anomaly:
     consecutive_anomalies += 1
 else:
