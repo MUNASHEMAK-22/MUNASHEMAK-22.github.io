@@ -1,0 +1,40 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#132720"/>
+  <g opacity="0.5" stroke="#2a4a3f" stroke-width="1">
+    <line x1="0" y1="150" x2="800" y2="150"/>
+    <line x1="0" y1="300" x2="800" y2="300"/>
+    <line x1="0" y1="450" x2="800" y2="450"/>
+  </g>
+  <!-- messy raw rows -->
+  <g fill="#c9902f" opacity="0.85">
+    <rect x="90" y="220" width="90" height="10" rx="3"/>
+    <rect x="90" y="238" width="60" height="10" rx="3"/>
+    <rect x="90" y="256" width="105" height="10" rx="3"/>
+    <rect x="90" y="274" width="45" height="10" rx="3"/>
+    <rect x="90" y="292" width="80" height="10" rx="3"/>
+  </g>
+  <!-- arrow -->
+  <path d="M230 270 L310 270" stroke="#e6e8e3" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  <!-- clean rows -->
+  <g fill="#16a67d">
+    <rect x="340" y="220" width="90" height="10" rx="3"/>
+    <rect x="340" y="238" width="90" height="10" rx="3"/>
+    <rect x="340" y="256" width="90" height="10" rx="3"/>
+    <rect x="340" y="274" width="90" height="10" rx="3"/>
+    <rect x="340" y="292" width="90" height="10" rx="3"/>
+  </g>
+  <path d="M470 270 L550 270" stroke="#e6e8e3" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  <!-- db cylinder -->
+  <g stroke="#e6e8e3" stroke-width="3" fill="none">
+    <ellipse cx="640" cy="240" rx="55" ry="16"/>
+    <path d="M585 240 L585 300 A55 16 0 0 0 695 300 L695 240"/>
+    <path d="M585 270 A55 16 0 0 0 695 270" opacity="0.6"/>
+  </g>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#e6e8e3"/>
+    </marker>
+  </defs>
+  <text x="90" y="380" font-family="JetBrains Mono, monospace" font-size="16" fill="#8fa39a">raw_sales_data.csv</text>
+  <text x="600" y="380" font-family="JetBrains Mono, monospace" font-size="16" fill="#8fa39a" text-anchor="end">sales.db</text>
+</svg>

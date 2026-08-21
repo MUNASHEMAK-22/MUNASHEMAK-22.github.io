@@ -1,0 +1,22 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#132720"/>
+  <g opacity="0.5" stroke="#2a4a3f" stroke-width="1">
+    <line x1="0" y1="150" x2="800" y2="150"/>
+    <line x1="0" y1="300" x2="800" y2="300"/>
+    <line x1="0" y1="450" x2="800" y2="450"/>
+  </g>
+  <!-- bar chart: North, South, East, West(dip), showing quarterly growth then a coral dip -->
+  <g>
+    <rect x="120" y="260" width="70" height="180" fill="#16a67d"/>
+    <rect x="230" y="220" width="70" height="220" fill="#16a67d"/>
+    <rect x="340" y="200" width="70" height="240" fill="#16a67d"/>
+    <rect x="450" y="300" width="70" height="140" fill="#c1553a"/>
+    <rect x="560" y="240" width="70" height="200" fill="#16a67d"/>
+  </g>
+  <text x="120" y="465" font-family="JetBrains Mono, monospace" font-size="15" fill="#8fa39a">N</text>
+  <text x="230" y="465" font-family="JetBrains Mono, monospace" font-size="15" fill="#8fa39a">S</text>
+  <text x="340" y="465" font-family="JetBrains Mono, monospace" font-size="15" fill="#8fa39a">E</text>
+  <text x="450" y="465" font-family="JetBrains Mono, monospace" font-size="15" fill="#e6a894">W</text>
+  <text x="560" y="465" font-family="JetBrains Mono, monospace" font-size="15" fill="#8fa39a">Q4</text>
+  <text x="455" y="290" font-family="JetBrains Mono, monospace" font-size="14" fill="#e6a894" text-anchor="middle">-12.2%</text>
+</svg>

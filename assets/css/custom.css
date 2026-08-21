@@ -1,0 +1,130 @@
+/* Custom additions on top of the recompiled Hyperspace base.
+   Kept separate from main.css so the generated template file
+   is never hand-edited directly. */
+
+#intro .eyebrow-tag {
+	font-family: 'JetBrains Mono', monospace;
+	font-size: 0.8em;
+	letter-spacing: 0.12em;
+	text-transform: uppercase;
+	color: #4fd6ab;
+	margin-bottom: 1em;
+}
+
+/* Pipeline strip — the core brand element, kept prominent under the hero */
+.pipeline-strip {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0;
+	margin: 2em 0 2.5em 0;
+	border: solid 1px rgba(255,255,255,0.15);
+	border-radius: 6px;
+	overflow: hidden;
+	max-width: 46em;
+}
+.pipeline-strip .p-stage {
+	flex: 1 1 auto;
+	min-width: 8.5em;
+	padding: 1em 1.1em;
+	border-right: solid 1px rgba(255,255,255,0.1);
+	background: rgba(255,255,255,0.03);
+}
+.pipeline-strip .p-stage:last-child { border-right: none; }
+.pipeline-strip .p-stage:nth-child(1) { background: rgba(201,144,47,0.12); }
+.pipeline-strip .p-stage:nth-child(2) { background: rgba(22,166,125,0.14); }
+.pipeline-strip .p-stage:nth-child(3) { background: rgba(255,255,255,0.03); }
+.pipeline-strip .p-stage:nth-child(4) { background: rgba(255,255,255,0.06); }
+.pipeline-strip .p-n {
+	display: block;
+	font-family: 'JetBrains Mono', monospace;
+	font-size: 0.72em;
+	color: rgba(255,255,255,0.45);
+	margin-bottom: 0.3em;
+}
+.pipeline-strip .p-t {
+	font-family: 'Inter', sans-serif;
+	font-weight: 600;
+	font-size: 0.85em;
+	color: #ffffff;
+}
+
+/* Primary (filled) button variant */
+.button.primary {
+	background-color: #16a67d !important;
+	border-color: #16a67d !important;
+}
+.button.primary:hover {
+	background-color: #12946e !important;
+}
+
+/* Project tag above each case-study title in the spotlights */
+.proj-tag {
+	display: block;
+	font-family: 'JetBrains Mono', monospace;
+	font-size: 0.72em;
+	letter-spacing: 0.06em;
+	text-transform: uppercase;
+	color: #4fd6ab;
+	margin-bottom: 0.6em;
+}
+
+/* About layout */
+.about-grid {
+	display: grid;
+	grid-template-columns: 1fr;
+	gap: 2.5em;
+	margin-top: 1.5em;
+	text-align: left;
+}
+.about-bio p { margin-bottom: 1.1em; }
+.about-traits {
+	display: flex;
+	flex-direction: column;
+	gap: 1.2em;
+}
+.trait-box {
+	background: rgba(255,255,255,0.04);
+	border: solid 1px rgba(255,255,255,0.12);
+	border-radius: 6px;
+	padding: 1.4em 1.6em;
+	text-align: left;
+}
+.trait-box h3 {
+	font-size: 0.95em;
+	color: #4fd6ab;
+	letter-spacing: 0.03em;
+	margin-bottom: 0.6em;
+}
+.trait-box p {
+	font-size: 0.85em;
+	line-height: 1.6;
+	margin: 0;
+}
+
+@media screen and (min-width: 64em) {
+	.about-grid {
+		grid-template-columns: 1.4fr 1fr;
+		align-items: start;
+	}
+}
+
+.quick-links {
+	display: flex;
+	gap: 1.4em;
+	margin-top: 1.4em;
+	list-style: none;
+	padding: 0;
+}
+.quick-links a {
+	font-family: 'JetBrains Mono', monospace;
+	font-size: 0.8em;
+	letter-spacing: 0.04em;
+	color: #4fd6ab !important;
+	border-bottom: solid 1px transparent;
+}
+.quick-links a:hover {
+	border-bottom-color: #4fd6ab;
+}
+
+/* Contact section link/phone color tie-in */
+#contact ul.contact a { color: #4fd6ab; }

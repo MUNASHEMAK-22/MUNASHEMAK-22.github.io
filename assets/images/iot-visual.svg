@@ -1,0 +1,19 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#132720"/>
+  <g opacity="0.5" stroke="#2a4a3f" stroke-width="1">
+    <line x1="0" y1="150" x2="800" y2="150"/>
+    <line x1="0" y1="300" x2="800" y2="300"/>
+    <line x1="0" y1="450" x2="800" y2="450"/>
+  </g>
+  <!-- flat sensor line, then rising anomaly ramp before failure -->
+  <path d="M60,340 L280,338 L320,335 L360,325 L400,300 L440,260 L480,210 L520,160 L540,120"
+        stroke="#16a67d" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M400,300 L440,260 L480,210 L520,160 L540,120"
+        stroke="#c1553a" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- anomaly zone shading -->
+  <rect x="400" y="80" width="140" height="380" fill="#c1553a" opacity="0.08"/>
+  <circle cx="540" cy="120" r="7" fill="#c1553a"/>
+  <text x="555" y="115" font-family="JetBrains Mono, monospace" font-size="15" fill="#e6a894">failure</text>
+  <text x="405" y="500" font-family="JetBrains Mono, monospace" font-size="14" fill="#e6a894">sustained anomaly &#8594;</text>
+  <text x="70" y="500" font-family="JetBrains Mono, monospace" font-size="14" fill="#8fa39a">normal baseline</text>
+</svg>
